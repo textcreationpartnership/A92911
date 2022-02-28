@@ -1,0 +1,3055 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Twenty and two epistles of Lucius Annæus Seneca, the philosopher translated out of the originall, into English verse.</title>
+            <title>Epistulae morales ad Lucillium. English. 1654</title>
+            <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 141 KB of XML-encoded text transcribed from 45 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92911</idno>
+            <idno type="STC">Wing S2530</idno>
+            <idno type="STC">ESTC R42606</idno>
+            <idno type="EEBO-CITATION">36282443</idno>
+            <idno type="OCLC">ocm 36282443</idno>
+            <idno type="VID">150278</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150278)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2239:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Twenty and two epistles of Lucius Annæus Seneca, the philosopher translated out of the originall, into English verse.</title>
+                  <title>Epistulae morales ad Lucillium. English. 1654</title>
+                  <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</author>
+               </titleStmt>
+               <extent>86, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Harper ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLIV [1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Epistulae morales.</note>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Reproduction of original in William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150278:1" rendition="simple:additions"/>
+            <p>
+               <hi>Twenty and Two</hi> EPISTLES OF LUCIUS ANNAEUS SENECA, The Philoſopher.</p>
+            <p>Tranſlated out of the Originall, into Engliſh Verſe.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Harper,</hi> MDCLIV.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:150278:2"/>
+            <pb facs="tcp:150278:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is the opinion of ſome Criticks, that moſt of the Epiſtles of <hi>Seneca,</hi> though intitled to <hi>Lucilius,</hi> were not uſually ſent, or ſo intended: but were emergent concepti<g ref="char:EOLhyphen"/>ons in his Garden, Houſe, or Bed, for ſuch a Wit could no where be idle. And therefore being no continued diſcourſe, like his other Works, but confin'd to the brevity of Letters, which (as our Author ſayes) <hi>ought not to fill the left hand of the Reader,</hi> and being withall interweav'd with Philoſophicall Precepts, and Stoicall ſentences, it is not to bee ſuppos'd they can or ought to bee rendred in all parts with that fluency of Phraſe, which is requiſite in his <hi>Conſolations,</hi> and other Bookes of Deſigne. An exuberant Phanſie pent in a ſhort diſcourſe, is like waves of the Sea driven into a Creek, which role thick upon each other. Or like fire in a Furnace, the flame whereof, being, as it were, cruſh'd up together, cannot display it ſelfe like that of a Pile. Yet how uſefull the Epi<g ref="char:EOLhyphen"/>ſtles are, heare what a learned Writer ſayes: <hi>One Booke, one Epiſtle of</hi> Seneca <hi>is ſufficient to order and rectifie life, if men be willing to be reform'd.</hi> And truly ſuch is the ſeverity of his admonitions, that what hath been ſaid of <hi>Epictetus</hi> is by ſome more properly aver'd of <hi>Seneca. He that ſhall not be rous'd up with his acrimony, will hardly be corrected but at the Bar of Hell.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="epistle">
+            <pb facs="tcp:150278:3"/>
+            <pb n="5" facs="tcp:150278:3" rendition="simple:additions"/>
+            <head>
+               <hi>EPISTLE</hi> I.</head>
+            <l>SO doe <hi>Lucilius,</hi> mind thine owne affaires,</l>
+            <l>And time that hitherto hath unawares</l>
+            <l>Been ſtoln, or ſnatcht, or elſe hath ſlipt away,</l>
+            <l>Collect, and keepe: believe 'tis as I ſay.</l>
+            <l>Some of our time is ſtoln, ſom ſnatcht, and ſom</l>
+            <l>Slips from us. But our ſhameful'ſt loſs does come</l>
+            <l>By negligence. Obſerve, and thou't find ſtill</l>
+            <l>Much of our time is ſpent in doing ill,</l>
+            <l>The greateſt part in doing nothing, all</l>
+            <l>In doing what's not ours. Whom canſt thou call</l>
+            <l>To minde that value's time? that life does prize</l>
+            <l>Or who condſiers that he dayly dies?</l>
+            <l>We err in thinking Death makes little haſt:</l>
+            <l>Whereof a great part is already paſt:</l>
+            <l>Our whole remaine of life is in deaths power.</l>
+            <l>Then doe <hi>Lucilius</hi> as thou writ'ſt: each houre</l>
+            <l>Embrace: if thou't the preſent apprehend,</l>
+            <l>Thou wilt the leſſe on the next day depend.</l>
+            <l>Life while it is defer'd, is in its flight.</l>
+            <l>All other things are borrow'd: we have right</l>
+            <l>Onely to time: this ſlipprie alone</l>
+            <l>Nature hath giv'n us in poſſeſſion:</l>
+            <l>Whereof moſt men deprive us as they liſt.</l>
+            <l>But wee in ſo great folly doe perſiſt,</l>
+            <l>That we for ſmall, and vile things, alwayes ſuch</l>
+            <l>As are reparable, thinke our ſelves much</l>
+            <l>Engag'd: whereas not any one conceaves</l>
+            <l>That he's a whit in debt who time receaves;</l>
+            <pb n="6" facs="tcp:150278:4"/>
+            <l>When that's the onely thing that never can</l>
+            <l>Be recompenc'd, by the moſt gratefull man.</l>
+            <l>Thou't aske perhaps, what I doe, who to thee</l>
+            <l>Preſcribe theſe things? I will heerein be free:</l>
+            <l>As one thats prodigall but diligent,</l>
+            <l>I keepe a true account of what is ſpent.</l>
+            <l>I cannot ſay that I doe nothing loſe,</l>
+            <l>But what, and when, and how I can diſcloſe,</l>
+            <l>And give the reaſons of my poverty.</l>
+            <l>But I may well to my owne ſelfe apply</l>
+            <l>What happen's unto many, who are brought</l>
+            <l>To indigence not by their owne defaut,</l>
+            <l>All pity, none relieve's. What is then?</l>
+            <l>I do not conceave them to be poore men,</l>
+            <l>Whom whatſoere remaines ſuffices. Yet</l>
+            <l>I'd rather thou ſhould'ſt keepe what thou doſt get,</l>
+            <l>And ſoone begin to husband what's thine owne:</l>
+            <l>For as our Anceſtors to us have ſhone</l>
+            <l>I'th bottom 'tis too late of thrift t' adviſe:</l>
+            <l>For both the leaſt, and worſt it'h bottome lies.</l>
+         </div>
+         <div n="2" type="epistle">
+            <head>
+               <hi>EPIST.</hi> II.</head>
+            <l>BY what thou writ'ſt me, and by what I heare,</l>
+            <l>I have good hope of thee. Thou do'ſt forbeare</l>
+            <l>To wander too and fro, and by the change</l>
+            <l>Of thy abodes, thee from thy reſt eſtrange.</l>
+            <l>This toffing up and downe notes a ſicke minde.</l>
+            <l>The ſureſt argument that I can find</l>
+            <l>Of a ſound judgement, is t'have power to ſtay,</l>
+            <l>And with one's ſelfe abide. But by the way</l>
+            <l>Take heed the reading ſuch variety</l>
+            <l>Of Authors, and of Bookes, doe not implie</l>
+            <pb n="7" facs="tcp:150278:4"/>
+            <l>A kind of wandring lightneſſe: thou had'ſt need</l>
+            <l>To dwell on ſome mens wit, and thereon feed:</l>
+            <l>If thou deſireſt to draw from thence that good</l>
+            <l>Which ſhould be fixt, and throughly underſtood.</l>
+            <l>He's no where that is every where. And as</l>
+            <l>It fare's for the moſt part with them which paſſe</l>
+            <l>Their time in travell, making that their ends,</l>
+            <l>They meet with many hoſts, but with few friends.</l>
+            <l>So muſt it needs befall them, who apply</l>
+            <l>Themſelves to no mans wit familiarly,</l>
+            <l>But haſtily run over all. The meat</l>
+            <l>Does' us no good, which we no ſooner eat,</l>
+            <l>But preſently caſt up againe; and ſtore</l>
+            <l>Of remedies retard our health the more.</l>
+            <l>A wound dreſt diverſly comes not to' a ſcar:</l>
+            <l>Plants proſper not that oft removed are:</l>
+            <l>And ther's not ſo commodious a thing,</l>
+            <l>That curſorily us'd can profit bring.</l>
+            <l>Variety of Bookes diſtracts the mind.</l>
+            <l>And therefore ſince thou canſt not leaſure finde</l>
+            <l>To read all that thou haſt, it will ſuffice</l>
+            <l>To have what thou canſt read. But heerein lies</l>
+            <l>Much pleaſure, thou wilt ſay now to reſort</l>
+            <l>To this booke, then to that. It does purport</l>
+            <l>A feeble ſtomacke to taſt many meates,</l>
+            <l>The great diverſity whereof begets</l>
+            <l>Corruption, and not good nouriſhment.</l>
+            <l>To approv'd Authors then be moſt intent:</l>
+            <l>And if perchance thou ſometimes doſt deſire</l>
+            <l>To looke on others, to the firſt retire,</l>
+            <l>'Gainſt poverty, 'gainſt death get every day</l>
+            <l>Some muniments, the like againſt the ſway</l>
+            <pb n="8" facs="tcp:150278:5"/>
+            <l>Of other ills. And when th'haſt fully gon</l>
+            <l>Ore many things, be ſure to cull out one</l>
+            <l>Which the ſame day thou mayſt concoct. I tread</l>
+            <l>This path my ſelfe: of many things I read,</l>
+            <l>I faſten ſtill on ſome. 'Tis this dayes gaine</l>
+            <l>Which I from <hi>Epicurus</hi> did obtaine:</l>
+            <l>For I to others tents uſe to paſs over,</l>
+            <l>Not as a fugitive, but to diſcover.</l>
+            <l>
+               <hi>Glad poverty's an honeſt thing,</hi> ſayes hee.</l>
+            <l>if it be glad it is not povertie.</l>
+            <l>For he that povertie with conſtant minde</l>
+            <l>Can beare, is rich. Nor can we juſtly find</l>
+            <l>Him to be poor that little hath, he's poor</l>
+            <l>Who is not ſatisfi'd, but covets more.</l>
+            <l>What matter 'iſt how much our cheſts contain,</l>
+            <l>What ſtore of corne does in our barnes remain,</l>
+            <l>What herds of cattel in our paſtures feed,</l>
+            <l>What mony w' have at uſe, if we proceed</l>
+            <l>To ſeek what's other men's? If we deſire</l>
+            <l>Not what we have, but what we may acquire?</l>
+            <l>But would'ſt thou know what mean in riches lies?</l>
+            <l>Firſt what is needfull, next what does ſuffice.</l>
+         </div>
+         <div n="3" type="epistle">
+            <head>
+               <hi>EPIST.</hi> III.</head>
+            <l>THou writ'ſt a Letter, as thou ſaiſt, by' a friend,</l>
+            <l>And therin alſo doſt a caution ſend,</l>
+            <l>Not to leave all thy ſecrets to his truſt,</l>
+            <l>For 'tis not us'd by thee. So that thou doſt</l>
+            <l>Him in the very ſame Epiſtle call</l>
+            <l>Thy friend, and yet denyeſt it withall.</l>
+            <l>Thou tak'ſt that firſt word in the vulgar ſence,</l>
+            <l>And cal'ſt him friend, as <hi>Candidates</hi> from thence</l>
+            <pb n="9" facs="tcp:150278:5"/>
+            <l>Are ſtil'd good men: and as when one we meet,</l>
+            <l>Whoſe name we cannot hit on, him we greet</l>
+            <l>With this term, Sir. Let that paſs. But if thou</l>
+            <l>Think'ſt thou maiſt any for thy friend avow,</l>
+            <l>And yet on him not as much truſt confer</l>
+            <l>As on thy ſelfe, thou doſt extreamly erre,</l>
+            <l>And not to the full worth true friendſhip prize.</l>
+            <l>In all things therefore with thy Friend adviſe:</l>
+            <l>But firſt conſult on him. We ſhould not ſpare</l>
+            <l>To truſt when friendſhip's made: we muſt beware</l>
+            <l>Before't be done. But they theſe duties mix</l>
+            <l>Confuſedly, who their affections fix</l>
+            <l>'Gainſt <hi>Theophraſtus</hi> rule, ere they have ground:</l>
+            <l>And love not after they have reaſon found.</l>
+            <l>Conſider long, whether thou ſhould'ſt admit</l>
+            <l>One to thy friendſhip; having found him fit,</l>
+            <l>Take him into thy breſt, as freely' impart</l>
+            <l>To him, as to thy ſelfe, what's in thy heart.</l>
+            <l>Hows' ever live thou ſo, as not to feare</l>
+            <l>Thy foe ſhould of thy actions witneſs beare.</l>
+            <l>But becauſe ſome things oftentimes ariſe,</l>
+            <l>Which a familiar truſt makes ſecrecies,</l>
+            <l>Let thy friend all thy cares, all thy thoughts know:</l>
+            <l>Thou't make him faithfull if thou think'ſt him ſo.</l>
+            <l>For many fearing fraud do fraud invite:</l>
+            <l>And by miſtruſt give other men a right</l>
+            <l>T'offend. Why ſhould I then a word ſuppreſs</l>
+            <l>Before my friend? or with him think I'm leſs</l>
+            <l>Alone, then with my ſelfe? ſome men unfold</l>
+            <l>To all they meet what onely ſhould be told</l>
+            <l>To friends: and what concerns them moſt, expoſe</l>
+            <l>To ev'ry eare. Some againe doubt ev'n thoſe</l>
+            <pb n="10" facs="tcp:150278:6"/>
+            <l>They have in moſt eſteeme: and if they could,</l>
+            <l>Locking all ſecrets in their breſt, they would</l>
+            <l>Conceale them from themſelves. Wee muſt do nei<g ref="char:EOLhyphen"/>ther.</l>
+            <l>For both are alwayes to be cenfurd, either</l>
+            <l>To credit all, or none. But th' one is ſure</l>
+            <l>A fault more candid, th' other more ſecure.</l>
+            <l>So mayeſt thou tax both them that never</l>
+            <l>Are quiet, and them that are quiet ever.</l>
+            <l>For 'tis not to be called induſtrie</l>
+            <l>To take delight in turmoyles, but a high</l>
+            <l>Tumultuouſneſſe of minde: nor is it reſt</l>
+            <l>Which ev'ry kind of motion does moleſt,</l>
+            <l>But languiſhment. Take then into thy thought</l>
+            <l>What I have from <hi>Pamponius</hi> beene taught:</l>
+            <l>
+               <hi>To darkneſſe ſome themſelves ſo much inure,</hi>
+            </l>
+            <l>
+               <hi>That all thats in the light they think obſcure.</hi>
+            </l>
+            <l>Theſe ſhould be intermixt, and by compact</l>
+            <l>In acting we ſhould reſt, in reſting act.</l>
+            <l>Conſult with Nature, ſhe will guide thee right,</l>
+            <l>And tell thee ſhe hath made both day, and night.</l>
+         </div>
+         <div n="4" type="epistle">
+            <head>
+               <hi>EPIST.</hi> IV.</head>
+            <l>PRoceed as th' haſt begun, and make what haſt</l>
+            <l>Thou canſt, that thou the longer mayſt</l>
+            <l>Enioy a well-reform'd, and compos'd minde:</l>
+            <l>And truly that inioyment thou wilt find</l>
+            <l>Even while thou doſt reforme, even while thou doſt</l>
+            <l>Compoſe. But yet that other pleaſur's moſt</l>
+            <l>To be eſteem'd, that from a minde proceeds,</l>
+            <l>Wherin no impure thought, or motion breeds.</l>
+            <l>Thinke but what ioy thou hadſt, when laying down</l>
+            <l>The robe of youth, thou didſt aſſume the gown,</l>
+            <pb n="11" facs="tcp:150278:6"/>
+            <l>And wert allowd to plead. Expect far more,</l>
+            <l>When having all thy childiſh thoughts giv'n ore,</l>
+            <l>The knowledge of Philoſophie ſhall then</l>
+            <l>Bring thee into the fellow-ſhip of men:</l>
+            <l>For hitherto not only we poſſeſſe</l>
+            <l>Childhood, but what's more grievous, childiſhnes.</l>
+            <l>And worſe indeed than that, we gravely ſit</l>
+            <l>Like old men, yet the errors doe commit</l>
+            <l>Of children, nay of infants: theſe at light,</l>
+            <l>They at falſe things, but we at both take fright.</l>
+            <l>Then go thou on, and ſomthings will appeare</l>
+            <l>Leſſe to be fear'd, becauſe they bring much feare.</l>
+            <l>No evill is the greateſt that is laſt.</l>
+            <l>Death comes, and we therat might be agaſt</l>
+            <l>If it could ſtay with us, but this is ſure,</l>
+            <l>It either will not come, or not indure.</l>
+            <l>But thou wilt ſay, it is a rigid thing,</l>
+            <l>That wee our lives to ſlight, our minds ſhould bring.</l>
+            <l>Doſt thou not ſee upon what ſlender ground</l>
+            <l>Life is diſpis'd by many? one is found</l>
+            <l>Himſelfe t'have ſtrangled at a wentches dore</l>
+            <l>Meerly for love: an other man, before</l>
+            <l>His Maſters wrath he'd longer undergo,</l>
+            <l>From the houſe top himſelfe did headlong throw:</l>
+            <l>A third, that fled away, himſelfe hath ſlaine,</l>
+            <l>Rather than he would be brought back againe.</l>
+            <l>Thinke not but vertue may effect as much</l>
+            <l>As needleſſe feare. Life's not ſecure to ſuch</l>
+            <l>As uſe too great endeavour to prolong</l>
+            <l>The date therof: accounting it among</l>
+            <l>Their great good-fortunes, that th' have liv'd to ſee</l>
+            <l>So many Conſulls. Our ſole care ſhould bee</l>
+            <pb n="12" facs="tcp:150278:7"/>
+            <l>With full reſolved mindes our life to leave;</l>
+            <l>Which many hold as faſt, and ſtrictly cleave</l>
+            <l>Thereto, as men graſp Brires, and Thorns, when they</l>
+            <l>Are by a furious torrent born away.</l>
+            <l>Man for the moſt part miſerably toſſes</l>
+            <l>Himſelfe, 'tween fear of death, and frequent croſſes</l>
+            <l>Of life: and though he lives unwillingly,</l>
+            <l>Yet notwithſtanding knows not how to die.</l>
+            <l>The way to make life pleaſant then to us,</l>
+            <l>Is not to be thereof ſolicitous.</l>
+            <l>No good can the poſſeſſor pleaſe, unleſs</l>
+            <l>His minde to leave it be in readineſs:</l>
+            <l>And we can part with nothing with leſs paine,</l>
+            <l>Than what once loſt cannot be wiſh'd again.</l>
+            <l>Wherefore perſwade thy ſelfe to be prepar'd,</l>
+            <l>To fare but as the greateſt men have far'd.</l>
+            <l>A Pupil and an Eunuch <hi>Pompey's</hi> head</l>
+            <l>Commanded: a fierce Parthian his rage fed</l>
+            <l>With <hi>Craſsus</hi> bloud: and <hi>Lepidus</hi> his neck</l>
+            <l>Submitted was at <hi>Caius Caeſar's</hi> beck</l>
+            <l>To <hi>Decius</hi> the Tribune: and his own</l>
+            <l>Left to <hi>Cherea.</hi> Fortune hath rais'd none</l>
+            <l>To ſo great height, to whom her menaces</l>
+            <l>Have been inferior to her promiſes.</l>
+            <l>Doe not on this tranquility relie,</l>
+            <l>The Sea does change in twinkling of an eye:</l>
+            <l>And oftentimes a ſhip, the very day</l>
+            <l>'Tis flatter'd with a calme, is caſt away.</l>
+            <l>Think that a Thiefe, or foe his ſword may ſet</l>
+            <l>Againſt thy breaſt: and leſt there ſhould be yet</l>
+            <l>A greater power wanting, there's no ſlave,</l>
+            <l>But of thy life the full command may have.</l>
+            <pb n="13" facs="tcp:150278:7"/>
+            <l>For this is fure, whos'ever does reſigne</l>
+            <l>The care of his owne life, is Lord of thine.</l>
+            <l>If to thoſe Preſidents thou't have recourſe</l>
+            <l>Which by cloſe wiles, or open fraud, or force</l>
+            <l>Have periſh'd, thou wilt finde the wrath of Slaves</l>
+            <l>T'have brought as many people to their graves,</l>
+            <l>As that of Kings. What is it then to thee</l>
+            <l>In what authority or pow'r they be</l>
+            <l>Whom thou doſt feare? ſince there is none but may</l>
+            <l>Act what thou fear'ſt. What if thy foe ſhall lay</l>
+            <l>Hands on thee accidentally, that ſoe</l>
+            <l>Will onely ſend thee where thou wert to goe;</l>
+            <l>Do not deceive thy ſelfe, but think that thou</l>
+            <l>Didſt alwayes ſuffer, what thou ſuffer'ſt now.</l>
+            <l>I tell thee from the houre thou firſt took'ſt breath,</l>
+            <l>Thou haſt been dayly going towards death.</l>
+            <l>Theſe, and the like we often muſt revolve,</l>
+            <l>If we on that laſt houre will well reſolve:</l>
+            <l>The feare whereof makes carefulneſs attend</l>
+            <l>On all the reſt. But that I may now end</l>
+            <l>My letter, take what hath contentment bred</l>
+            <l>In me to day, and this I gathered</l>
+            <l>Out of an others Orchard. <hi>'Tis great Treaſure,</hi>
+            </l>
+            <l>
+               <hi>When poverty with natures Law keeps meaſure.</hi>
+            </l>
+            <l>This Law of nature what it is, behold,</l>
+            <l>To keep our ſelves from hunger, thirſt and cold.</l>
+            <l>If we meer thirſt and hunger would prevent,</l>
+            <l>We need not great mens Pallaces frequent,</l>
+            <l>Nor ſuffer a proud looke, or an affront</l>
+            <l>That hath a ſhew of favour put upon't.</l>
+            <l>We need not run the hazard of the Seas,</l>
+            <l>Nor of the wars, that's to be had with eaſe</l>
+            <pb n="14" facs="tcp:150278:8"/>
+            <l>Which nature askes. Wee labour for exceſſe,</l>
+            <l>'Tis that weares out our gownes with ſervileneſſe:</l>
+            <l>Makes us grow old under a tent: and throwes</l>
+            <l>Us on ſtrange coaſts. Sufficient near hand grows.</l>
+         </div>
+         <div n="5" type="epistle">
+            <head>
+               <hi>EPIST.</hi> V.</head>
+            <l>THat thou do'ſt ſtudie with ſuch conſtancy,</l>
+            <l>And all things elſe being by thee layd-by,</l>
+            <l>That thou do'ſt wholly aime at this one end,</l>
+            <l>How thou mayſt dayly learne thy ſelfe to mend,</l>
+            <l>I both approve, and alſo much rejoyce:</l>
+            <l>And that thou wouldſt perſever in thy choice</l>
+            <l>Not onely I exhort thee, but entreat.</l>
+            <l>Yet notwithſtanding I muſt not forget</l>
+            <l>To give thee warning to forbeare what may</l>
+            <l>Or in thy habit, or thy life bewray</l>
+            <l>A humor in thee to bee ſingular:</l>
+            <l>Like thoſe, who to be gaz'd on take more care,</l>
+            <l>Than to bee good. Forbeare thou to affect</l>
+            <l>Rude garbes: a head un-ſhorn: or through neglect</l>
+            <l>A beard grown rough: an enmity profeſt</l>
+            <l>T'weene mony and thee: a couch whereon to reſt</l>
+            <l>Spred on the ground: or whatſoere beſide</l>
+            <l>Is courted in a perverſe way by pride.</l>
+            <l>The very name of a Philoſopher,</l>
+            <l>Though nere ſo meeke, will envy enough confer.</l>
+            <l>What if to live retir'd we ſhall begin?</l>
+            <l>We may diſſent in all that lies within,</l>
+            <l>But greet the people with a cheerfull face.</l>
+            <l>Let not our gown be ſplendid, nor yet baſe.</l>
+            <l>Let's not deſire t'have plate with gold in-layd.</l>
+            <l>Yet let it not an argument be made</l>
+            <pb n="15" facs="tcp:150278:8"/>
+            <l>Of thrift, that wee both gold, and ſilver want.</l>
+            <l>We to our ſelves may this compliance grant</l>
+            <l>With common people, that our lives ſhould be</l>
+            <l>Better then theirs, but yet not contrarie.</l>
+            <l>For otherwiſe we thoſe ſhall from us ſcare</l>
+            <l>Whom wee'd allure: and ſince they do deſpaire</l>
+            <l>T' imitate us in all things, they'll refuſe</l>
+            <l>To follow us in any. This accrews</l>
+            <l>As the firſt good reapt by Philoſophie,</l>
+            <l>Publicke accord joynd with humanity:</l>
+            <l>The benefit whereof we needs muſt loſe</l>
+            <l>If difference in manners interpoſe.</l>
+            <l>Let's ſee if't be not vaine, and odious,</l>
+            <l>Which wee ſo much deſire ſhould draw on us</l>
+            <l>Men's admiration. Sure 'tis our intent</l>
+            <l>To live according unto nature's bent.</l>
+            <l>But this is contrary, to macerate</l>
+            <l>Our bodies, and cheape cleanlineſſe to hate:</l>
+            <l>To affect rudneſſe, and on meats to feed</l>
+            <l>Not onely vile, but noyſome, ſuch as breed</l>
+            <l>A loathing. For, as it is luxurie</l>
+            <l>To covet curious diſhes. So to flie</l>
+            <l>The uſuall meats, and ſuch as may be bought</l>
+            <l>At eaſy rates, is madneſſe to be thought.</l>
+            <l>Philoſophy requires frugalitie,</l>
+            <l>Not puniſhment: for neatneſſe may comply</l>
+            <l>With thriftineſſe. This mean gives mee content,</l>
+            <l>When life's 'tween good, and publike manners ſpent.</l>
+            <l>Let men admire our life, but know it too.</l>
+            <l>What then, muſt wee do that which others doe?</l>
+            <l>Muſt we from them in nothing differ? Yes,</l>
+            <l>In many things. Let him that carefull is</l>
+            <pb n="16" facs="tcp:150278:9"/>
+            <l>T' obſerve, and looke more nearely onus, kno</l>
+            <l>Wee differ from the people. They that goe</l>
+            <l>Into our houſes, ſhould find cauſe enough</l>
+            <l>To view us, rather than our houshold-ſtuffe.</l>
+            <l>He's noble, who can earthen veſſels uſe</l>
+            <l>As they were ſilver: nor can we refuſe</l>
+            <l>Him the like honour, who finds no more worth</l>
+            <l>In thoſe of Silver; than in thoſe of earth:</l>
+            <l>Not to be able riches to poſſeſſe</l>
+            <l>In the right way, ſhews the minds feebleneſſe.</l>
+            <l>I'll now impart what I have learn'd this day</l>
+            <l>From <hi>Heraton,</hi> to throw our luſts away</l>
+            <l>Will remedie our feares. <hi>Do thou forbeare</hi>
+            </l>
+            <l>
+               <hi>To hope,</hi> (ſays he) <hi>and thou't deſiſt from fear.</hi>
+            </l>
+            <l>But thou wilt aske how theſe things can agree,</l>
+            <l>And ſtand together, that ſo different be?</l>
+            <l>'Tis ſo, <hi>Lucilius,</hi> though there ſeeme a maine.</l>
+            <l>Diſſent, yet they are joynd. For as one chaine</l>
+            <l>Couples the priſoner and his keeper, ſo</l>
+            <l>Theſe which are different together go:</l>
+            <l>Fear follows hope: nor do I thereat wonder:</l>
+            <l>Both lean upon ſuſpenſion, both lie under</l>
+            <l>The care of future things. But the beſt reaſon</l>
+            <l>Of both, is, we do nothing in fit ſeaſon,</l>
+            <l>Mind not the preſent, but our thoughts defer.</l>
+            <l>And therefore we heerein extreamely err,</l>
+            <l>Turning to ill, man's chiefe good, Providence:</l>
+            <l>Beaſts flie the danger obvious to their ſenſe,</l>
+            <l>And ſcaping are ſecure: man lookes upon</l>
+            <l>With troubled mind, not onely what is gon,</l>
+            <l>But even with what's to come himſelfe torments.</l>
+            <l>Our beſt gifs hurt us, memory preſents,</l>
+            <pb n="17" facs="tcp:150278:9"/>
+            <l>And providence anticipates the paine,</l>
+            <l>Which we from our continuall feare ſuſtaine.</l>
+            <l>No man is wretched onely in the ill</l>
+            <l>That preſent is; doubt makes him wretched ſtill.</l>
+         </div>
+         <div n="6" type="epistle">
+            <head>
+               <hi>EPIST.</hi> VI.</head>
+            <l>I Know it (my <hi>Lucilius</hi>) to be trew</l>
+            <l>That I'm not onely improv'd, but molded new:</l>
+            <l>Yet t'is not to be promiſd, or expected</l>
+            <l>That I have nothing left to be corrected.</l>
+            <l>Rather how can it poſſibly be thought</l>
+            <l>But that I yet have many things which ought</l>
+            <l>To be amended? ſome I muſt augment,</l>
+            <l>And ſome diminiſh? t'is an argument</l>
+            <l>Our mind's reform'd, when we the faults diſcrie</l>
+            <l>Which formerly in us conceald did lie.</l>
+            <l>There is ſome hope in many ſickneſſes</l>
+            <l>To know w' are ſicke. I therefore would expreſſe</l>
+            <l>To thee my ſudden change, and reape this good</l>
+            <l>To have our friendſhip throughly underſtood.</l>
+            <l>A friendſhip which no hope, or feare can ever</l>
+            <l>Divide, nor thought of private profit ſever.</l>
+            <l>That, both with which, and for which men do die;</l>
+            <l>Although there be too many that relie</l>
+            <l>More upon friends, than friendſhip: which fault ſprings</l>
+            <l>From want of equall will to honeſt things.</l>
+            <l>For all things ſhould be common by the tie</l>
+            <l>Of friendſhip, but chiefly adverſitie.</l>
+            <l>Thou canſt not thinke what profit every day</l>
+            <l>I gather to my ſelfe. But thou wilt ſay,</l>
+            <l>Send me thoſe things which ſo important be?</l>
+            <l>I willingly would powre them into thee.</l>
+            <pb n="18" facs="tcp:150278:10"/>
+            <l>For I rejoyce to learne that I may teach.</l>
+            <l>And there is naught can fall within the reach</l>
+            <l>Of my deſires, that I would know alone:</l>
+            <l>If wiſdome were on this condition</l>
+            <l>To be beſtowed on me, that I ſhould make it</l>
+            <l>Known to no other, truly I would not take it.</l>
+            <l>Without a partner there is no content</l>
+            <l>In any thing, though ne're ſo excellent.</l>
+            <l>Therefore the Bookes themſelves to thee Il'e ſend</l>
+            <l>And that thou mayſt not too much labour ſpend</l>
+            <l>To reape that benefit thou doſt deſire,</l>
+            <l>I'le note thoſe things I phanſie, and admire,</l>
+            <l>That thou mayſt ſooner find them. But yet know,</l>
+            <l>More good will from diſcourſe, than reading grow.</l>
+            <l>Thou therefore muſt upon the place appeare,</l>
+            <l>Both becauſe men truſt more the eye, than eare:</l>
+            <l>And that the way by precepts is about,</l>
+            <l>But by examples ſhort, and of leſſe doubt.</l>
+            <l>
+               <hi>Cleanthes,</hi> had he onely <hi>Zeno</hi> heard,</l>
+            <l>And not familiarly with him confer'd,</l>
+            <l>Whereby he might his courſe of life obſerve,</l>
+            <l>And ſee he did not from his owne rules ſwerve,</l>
+            <l>Had not ſo well reſembl'ed him. Nor yet</l>
+            <l>Could <hi>Plato, Ariſtotle,</hi> and all the great</l>
+            <l>Authours of various Sects have ſo expreſt</l>
+            <l>Grave <hi>Socrates</hi> from words, as from the teſt</l>
+            <l>Of his knowne manners. The ſocietie</l>
+            <l>Of <hi>Epicurus</hi> did more magnifie</l>
+            <l>
+               <hi>Poliaenus, Metrodorus, Hermacus,</hi>
+            </l>
+            <l>Than did his School. 'Tis therefore fit for us</l>
+            <l>T'inſtruct as well as learne, that we may grow</l>
+            <l>Mutually helpfull. Mean time, 'cauſe I owe</l>
+            <pb n="19" facs="tcp:150278:10"/>
+            <l>To thee a dayly cent, accept a boone</l>
+            <l>That I receiv'd to day from <hi>Hecater.</hi>
+            </l>
+            <l>
+               <hi>Doſt thou inquire what I have gain'd?</hi> ſaid he,</l>
+            <l>
+               <hi>I've learn'd a friend to my own ſelfe to be.</hi>
+            </l>
+            <l>For he improves, and cannot bee alone,</l>
+            <l>A friend t' himſelfe, is ſo to ev'ry one.</l>
+         </div>
+         <div n="7" type="epistle">
+            <head>
+               <hi>EPIST.</hi> VII.</head>
+            <l>DOſt thou inquire what thou ſhouldſt chiefly ſhun?</l>
+            <l>The multitude. Thou mightſt a hazard run,</l>
+            <l>If thou ſhouldſt venture on it yet. For I</l>
+            <l>Muſt needs acknowledge this infirmitie,</l>
+            <l>The manners which I carry with me thither</l>
+            <l>I bring back ſeldome. For I finde that either</l>
+            <l>Some thing's diſturb'd which ſetled was before:</l>
+            <l>Or part of that returns I had giv'n-o're.</l>
+            <l>As ſome Diſeaſes ſo our ſtrength impaire,</l>
+            <l>That though we mend, yet brought into the aire,</l>
+            <l>We preſently relapſe: ſo happens it</l>
+            <l>To us, whoſe mindes after a tedious fit</l>
+            <l>Are comforted: for publick entercourſe</l>
+            <l>Renews our malady, and makes it worſe.</l>
+            <l>In a great multitude there is ſcarce one,</l>
+            <l>But by diſcourſe, or converſation.</l>
+            <l>Or by a dangerous example will</l>
+            <l>When we leaſt think on't, tempt us to ſome ill.</l>
+            <l>By how much greater the Aſſembly is,</l>
+            <l>So much the danger's greater. And know this,</l>
+            <l>That nothing does good manners more oppoſe,</l>
+            <l>Then to be preſent at our publick ſhowes,</l>
+            <l>For Vices there in to us eas'lier ſteal</l>
+            <l>By that delight. And that I may reveale</l>
+            <pb n="20" facs="tcp:150278:11"/>
+            <l>My meaning plainly: I returne from thence</l>
+            <l>More covetous, more proud, and more propenſe</l>
+            <l>To Luxury. Nay further, I grow then</l>
+            <l>More inhumane, becauſe I was with men.</l>
+            <l>Falling by chance upon a mid-day ſight,</l>
+            <l>I look'd for ſport, and wit, and that which might</l>
+            <l>Afford ſome mild refreſhment to mens eyes,</l>
+            <l>Which in the morning with ſtrange cruelties</l>
+            <l>Inhumanly were fed. But loe I found</l>
+            <l>The contrary. For ev'ry former wound</l>
+            <l>Was mercy. Now all ſport b'ing laid aſide,</l>
+            <l>Theſe are meer murthers: no man does provide</l>
+            <l>Any defence: their bodies being quite</l>
+            <l>Uncover'd, not one ſtroke in vaine does light.</l>
+            <l>Yet many thither goe, and like it far</l>
+            <l>'Bove common ſword-fights, or thoſe ſhews that are</l>
+            <l>Demanded by the people. Would you know</l>
+            <l>The cauſe? here are no arms to ſave a blow.</l>
+            <l>What needs a Helmet, or a Fencers skill?</l>
+            <l>Thoſe delay death, and make men ſlowly kill.</l>
+            <l>Men in the morning are to beaſts expos'd:</l>
+            <l>And if they ſcape, they are at noon inclos'd</l>
+            <l>With fierce beholders, who in ſport ordaine</l>
+            <l>Victors to be o're-come, and ſlayers ſlaine.</l>
+            <l>The end is ſword, fire, death: and this is don</l>
+            <l>But while there is an intermſſiion</l>
+            <l>Of other Spectacles: and is excusd;</l>
+            <l>B'ing men condemn'd, they ought to be ſo uſd.</l>
+            <l>This deſerves death for ſtealing, that for killing:</l>
+            <l>But wretch what do'ſt thou merit to be willing</l>
+            <l>To behold this? to heare the people cry</l>
+            <l>Strike, burn, and kill: who, pleaſd with cruelty,</l>
+            <pb n="21" facs="tcp:150278:11"/>
+            <l>Are not aſhamed to aske, why this ſo fears</l>
+            <l>To ruſh upon the ſword; why that forbeares</l>
+            <l>To kill with daring confidence: and why</l>
+            <l>A third ſhewes ſuch unwillingneſſe to die.</l>
+            <l>Stroakes provoke wounds, and every mutuall blow</l>
+            <l>Lights on their naked breſts; and though the ſhow</l>
+            <l>Be intermitted, rather than ſit ſtill,</l>
+            <l>And nothing ſee, men muſt each other kill.</l>
+            <l>On then, and find ill preſidents ſharp rods</l>
+            <l>To them that make them: thank th' immortall gods,</l>
+            <l>That you with ſo much induſtry have ſought</l>
+            <l>To make him cruell, who cannot be taught.</l>
+            <l>A tender wit, and not accuſtom'd much</l>
+            <l>To conſtant wayes, muſt be withdrawn from ſuch</l>
+            <l>Publick aſſemblies. For what many doe</l>
+            <l>T'will be ſoone and eaſily brought unto.</l>
+            <l>In frequent meetings where are various</l>
+            <l>And different minds, <hi>Cato,</hi> and <hi>Laelius,</hi>
+            </l>
+            <l>And <hi>Socrates</hi> himſelfe might have bin ſhaken.</l>
+            <l>And therefore none of us, though we have taken</l>
+            <l>Strong reſolutions, can withſtand the lewd</l>
+            <l>Temptations of a vicious multitude.</l>
+            <l>For one example either of avarice,</l>
+            <l>Or prodigality will much intice.</l>
+            <l>One curious gueſt will make us by degrees</l>
+            <l>Effeminate and wanton. He that ſees</l>
+            <l>His neighbour rich, grows covetous: and none</l>
+            <l>Can entertaine a lewd companion,</l>
+            <l>But he though honeſt will bee quickly tainted.</l>
+            <l>What therefore will they be who are acquainted</l>
+            <l>With multitudes? or what ſecure defence</l>
+            <l>Can there be made gainſt publick violence?</l>
+            <pb n="22" facs="tcp:150278:12"/>
+            <l>Thou muſt perforce or imitate or ſhun.</l>
+            <l>But neither of them both ought to be don:</l>
+            <l>Leſt thou grow like the bad, becauſe th'are many:</l>
+            <l>Or many oppoſe, becauſe th'art not like any.</l>
+            <l>Into thy ſelfe, in what thou mayſt, retire:</l>
+            <l>Keepe company with thoſe that do deſire</l>
+            <l>To make thee better: and thoſe men admit,</l>
+            <l>Whom thou maiſt mend, and to thy manners fit.</l>
+            <l>Theſe things are mutually perform'd, and men</l>
+            <l>Learn while they each. There is no reaſon then,</l>
+            <l>That thou, to ſhew thy knowledge ſhouldſt diſpute,</l>
+            <l>Or publickely repeat. That well might ſute</l>
+            <l>If thou wert like the people: but ther's none</l>
+            <l>Will underſtand thee; if perchance ſome one</l>
+            <l>Or other there be found deſires to learne,</l>
+            <l>Him thou muſt forme thy meaning to diſcerne.</l>
+            <l>But thou wilt ſay, for whom, or to what uſe</l>
+            <l>Learnd I thoſe things? there needs not an excuſe</l>
+            <l>Of labour loſt, the fruit of all thy paines</l>
+            <l>In what th' haſt learnd, to thine owne uſe remaines.</l>
+            <l>Yet leſt that I ſhould ſeem t' have learnd to day</l>
+            <l>But to my ſelfe, I will before thee lay</l>
+            <l>Three worthy ſentences, all which commeare</l>
+            <l>Our preſent purpoſe: one whereof ſhall cleare</l>
+            <l>The debt this letter owes thee: th'other two</l>
+            <l>Shall likewiſe pay a debt before 'tis due.</l>
+            <l>That of <hi>Democritus</hi> ſhall firſt be ſhown.</l>
+            <l>
+               <hi>One is as all to me, and all as one.</hi>
+            </l>
+            <l>He alſo whoſoe're he was, ſaid well,</l>
+            <l>For who the Authour was we cannot tell;</l>
+            <l>This queſtion being ask'd him, to what end</l>
+            <l>Thoſe Sciences, which few could apprehend,</l>
+            <pb n="23" facs="tcp:150278:12"/>
+            <l>He ſtudi'd with ſuch induſtry. <hi>To mee</hi>
+            </l>
+            <l>
+               <hi>Few are enough, or one, or none,</hi> ſaid he.</l>
+            <l>The third is noble. <hi>Epicurus</hi> writ</l>
+            <l>To one of the companions of his wit,</l>
+            <l>And us'd theſe words; <hi>I ſend theſe things to thee,</hi>
+            </l>
+            <l>
+               <hi>Not unto many: for t' each other we</hi>
+            </l>
+            <l>
+               <hi>Are a full Theatre.</hi> I thee adviſe</l>
+            <l>To hoord <hi>(Lucilius)</hi> theſe: thou't then diſpiſe</l>
+            <l>The pleaſures that are moſt approv'd. What though</l>
+            <l>Many commend thee, thou art bound to owe</l>
+            <l>Thy prayſes to thy ſelfe? If thou be'ſt one</l>
+            <l>Whom many like, thy inward goods make known.</l>
+         </div>
+         <div n="8" type="epistle">
+            <head>
+               <hi>EPIST.</hi> VIII.</head>
+            <l>THou bid'ſt me flie the rout, ſaiſt thou, and thence</l>
+            <l>Departing, reſt with mine owne conſcience.</l>
+            <l>Where are thoſe Precepts then which recommend</l>
+            <l>A life to us, that muſt in action end<g ref="char:punc">▪</g>
+            </l>
+            <l>What? think'ſt thou I the mean while idle ſit?</l>
+            <l>That I to others may bring benefit,</l>
+            <l>I both with-draw, and ſhut my doors: no day</l>
+            <l>From me in idleneſs does paſs away.</l>
+            <l>I alſo ſpend a good part of the night</l>
+            <l>In ſtudie: and I ſeldome ſleep invite,</l>
+            <l>But ſtay untill it ſeize on me: and when</l>
+            <l>My weari'd eies begin to cloſe, I then</l>
+            <l>Continue them in action. My receſs</l>
+            <l>Is not from men alone, but buſineſſes,</l>
+            <l>And chiefly from mine owne, for I prepare</l>
+            <l>The worke of future ages, and declare</l>
+            <l>What will to them bring pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fit. I preſent</l>
+            <l>In writing admonitions, which are meant</l>
+            <pb n="24" facs="tcp:150278:13"/>
+            <l>As ſafe, and wholeſome medicines, which I</l>
+            <l>Have oft found uſefull in extremity.</l>
+            <l>And though my wounds are not therby quite cur'd:</l>
+            <l>Yet being now more eaſily endur'd,</l>
+            <l>The'are kept at leaſt from feſtring. The right way,</l>
+            <l>From which with wearineſs I long did ſtray,</l>
+            <l>Having now found, I t'others ſhew: and crie</l>
+            <l>All that is pleaſing to the vulgar, flie.</l>
+            <l>Shun all that fortune offers: look upon</l>
+            <l>All worldly goods with a ſuſpicion.</l>
+            <l>Wild Beaſts and Fiſhes are deceiv'd with baits.</l>
+            <l>Counts thou thoſe Fortunes gifts? they are deceits.</l>
+            <l>A happy life by none can be enjoy'd,</l>
+            <l>Unleſs he ſtrive thoſe bird-lime gifts t'avoid:</l>
+            <l>By which we alſo are made wretched, thus,</l>
+            <l>We think that we have them, but they have us.</l>
+            <l>They lead us to a precipice and all</l>
+            <l>That riſe too high, are lifted up to fall.</l>
+            <l>Nor is it poſſible to diſobey,</l>
+            <l>VVhen riches drive us out of the right way.</l>
+            <l>Flie then, or ſtand upright: them who do ſo</l>
+            <l>Fortune may ſift or ſhake, but not o'rethrow.</l>
+            <l>Remember alſo this ſafe courſe t'obſerve,</l>
+            <l>T'allow thy body what may onely ſerve</l>
+            <l>To maintaine health. And ſometimes it muſt find</l>
+            <l>Harſh uſage leſt it diſobey thy mind.</l>
+            <l>Let meat thy hunger ſwage, drink thy thirſt ſlake,</l>
+            <l>Let cloth's keep thee from cold, and do thou make</l>
+            <l>Thy houſe thy bodie's ſhelter. Take no thought</l>
+            <l>Whether't be built of Turfe, or Marble, brought</l>
+            <l>From other Countries: men may be as well</l>
+            <l>Cover'd with Thatch as Gold. Thoſe things which ſwell</l>
+            <pb n="25" facs="tcp:150278:13"/>
+            <l>With too much coſt and pride, thou muſt neglect,</l>
+            <l>And nothing in thee but thy minde reſpect;</l>
+            <l>To which b'ing great, no other thing ſeems great.</l>
+            <l>If this both to my ſelfe I doe repeat,</l>
+            <l>And to poſteritie, wilt not appear,</l>
+            <l>That I more uſefull am, than if I were</l>
+            <l>A ſurety, or a witneſs to a will,</l>
+            <l>Or to a friend my promiſe did fulfill</l>
+            <l>In the aſſiſtance of my hand, or vote</l>
+            <l>To his preferment? this for truth I'le note,</l>
+            <l>Some ſeeming to doe nothing, great things doe:</l>
+            <l>Such as belong to earth, and heaven too.</l>
+            <l>But that I may conclude, and as a debter,</l>
+            <l>Pay what I uſe to doe in ev'ry letter,</l>
+            <l>Which ſhall not iſſue out of mine own purſe,</l>
+            <l>But <hi>Epicurus</hi> ſhall the ſame disburſe:</l>
+            <l>This ſentence I in him did read to day,</l>
+            <l>
+               <hi>If thou true freedome woulds enjoy, obay</hi>
+            </l>
+            <l>
+               <hi>Phyloſophy, ſubjection to her</hi>
+            </l>
+            <l>
+               <hi>Doth liberty without delay conferr,</hi>
+            </l>
+            <l>
+               <hi>And quickly gives the <note n="*" place="margin">Manu<g ref="char:EOLhyphen"/>miſſion.</note> turn:</hi> for that alone</l>
+            <l>Is freedome. But perhaps this queſtion</l>
+            <l>Will in the meane time be propounded, why</l>
+            <l>I thus quote <hi>Epicurus,</hi> and paſſe by</l>
+            <l>Our Country-men? But wherfore ſhouldſt not thou,</l>
+            <l>Such words, as publicke ſentences allow?</l>
+            <l>Doe not the Poets many things declare,</l>
+            <l>Which by the beſt Philoſophers or are,</l>
+            <l>Or ſhould be ſpoken? I'll not mention make</l>
+            <l>Of our Dramatick Poems, they pertake</l>
+            <l>Of ſom auſteritie, and are a meane</l>
+            <l>Betwene the Tragick and the Comick Scene.</l>
+            <pb n="26" facs="tcp:150278:14"/>
+            <l>Among the Mimikes what brave words are found?</l>
+            <l>And how doe <hi>Publius</hi> his works abound,</l>
+            <l>With what does not the ſocke alone befit,</l>
+            <l>But what the tragicke busk in might admit?</l>
+            <l>One of whoſe verſes that Philoſophie</l>
+            <l>Concernes, and ſirs our preſent purpoſe, I</l>
+            <l>Will heer remember, wherin he denies</l>
+            <l>That we have ſhare in caſualities:</l>
+            <l>
+               <hi>What s'ever comes by wiſhing, is not ours.</hi>
+            </l>
+            <l>I alſo call to minde a verſe of yours,</l>
+            <l>Much better, and more neer to our deſigne:</l>
+            <l>
+               <hi>That is not thine, which fortune hath made thine.</hi>
+            </l>
+            <l>Marke what is better yet, I've heard thee ſay,</l>
+            <l>
+               <hi>What may be given, may be tane away.</hi>
+            </l>
+            <l>I doe not recken this a payment, none</l>
+            <l>Can think to pay a debt with what's thine one.</l>
+         </div>
+         <div n="9" type="epistle">
+            <head>
+               <hi>EPIST.</hi> IX.</head>
+            <l>TThou do'ſt deſire to know, if <hi>Epicure</hi>
+            </l>
+            <l>In one of his Epiſtls, upon ſure</l>
+            <l>And iuſt grounds cenſures them, who doe maintaine,</l>
+            <l>That a wiſeman does with himſelfe remaine</l>
+            <l>Contented, and in that reſpect needs not a friend.</l>
+            <l>Hee about this with <hi>Stilpo</hi> does contend</l>
+            <l>And others, who the chiefe good have confind</l>
+            <l>Unto a mere impaſſiveneſſe of mind.</l>
+            <l>But it may be ambiguous, if wee</l>
+            <l>Think to expreſſe the Greeke word <hi>Apathie,</hi>
+            </l>
+            <l>In this one word of ours, <hi>impatience.</hi>
+            </l>
+            <l>For that may carry a far diffrent ſence</l>
+            <l>From what is meant by us. We intend one</l>
+            <l>Who throws from him the apprehenſion</l>
+            <pb n="27" facs="tcp:150278:14"/>
+            <l>Of evills: wheras that word may implie</l>
+            <l>An abſolute impaſſibilitie.</l>
+            <l>See if it be not better thus expreſt,</l>
+            <l>A man that with no evill is opreſt,</l>
+            <l>Than ſenſible of none. We diſagree</l>
+            <l>In this, our wiſeman, though the Victorie</l>
+            <l>Over all evills hee obtaines, yet ſtill</l>
+            <l>Hee feels them too, but theirs ev'n feels no ill.</l>
+            <l>We to each other have thus far conſented,</l>
+            <l>That a wiſeman is with himſelfe contented.</l>
+            <l>Though he can ſatisfie himſelf alone,</l>
+            <l>Hee'll have a neighbor, friend, companion.</l>
+            <l>Mark how he this contentment does divide,</l>
+            <l>For he both with himſelfe is ſatisfi'd,</l>
+            <l>And with apart therof: as when a foe,</l>
+            <l>Or ſickneſſe by ſom humor, or ſom blow</l>
+            <l>Deprives him of a hand: or when an eye</l>
+            <l>Is put out by ſome caſualitie,</l>
+            <l>He is content with what to him is left,</l>
+            <l>And is as chearfull when he's ſo bereft</l>
+            <l>As when he was intire. Though he would faine</l>
+            <l>Have kept them, yet he ſeekes them not againe</l>
+            <l>Being once loſt. So does a wiſeman reſt</l>
+            <l>Contented with himſelfe; not that 'tis beſt</l>
+            <l>To live without a friend, but that he may:</l>
+            <l>And by that word I would more plainly ſay,</l>
+            <l>He a friends loſſe bears with a conſtant minde,</l>
+            <l>For him without a freind, we nere ſhall find.</l>
+            <l>Tis in his power that damage to ſupplie:</l>
+            <l>If <hi>Phidias</hi> loſe a ſtatue, preſently</l>
+            <l>He'll make another. This that can create</l>
+            <l>Friendſhips, when he's depriv'd of one, can ſtraight</l>
+            <pb n="28" facs="tcp:150278:15"/>
+            <l>Reſtore that loſſe. But thou wilt ask me how?</l>
+            <l>I'le tell thee, on condition thou't allow</l>
+            <l>Of this agreement, that therby the debt</l>
+            <l>Which this Epiſtle owes thee be out ſet.</l>
+            <l>
+               <hi>Shall I,</hi> ſayes <hi>Hecaton, on thee beſtow</hi>
+            </l>
+            <l>
+               <hi>A philter, which it's vertue ſhall notow</hi>
+            </l>
+            <l>
+               <hi>To herbes and charmes, but ſhall it ſelfe approve</hi>
+            </l>
+            <l>
+               <hi>If thou deſir'ſt to be beloved, love.</hi>
+            </l>
+            <l>For we are not more pleaſd in the full act</l>
+            <l>Of friendſhip, than while we the ſame contract.</l>
+            <l>And looke what difference we may ſuppoſe</l>
+            <l>To be 'tween him that reaps, and him that ſowes.</l>
+            <l>The ſame 's 'tweene him that hath already knit</l>
+            <l>Friendſhip, and him that is preparing it.</l>
+            <l>It pleaſes more ſayd <hi>Attalus</hi> that grave</l>
+            <l>Philoſopher, <hi>to make freinds than to have.</hi>
+            </l>
+            <l>Paynters to paynt much more deligted are,</l>
+            <l>Than to haue painted: for their ſtudious care</l>
+            <l>In working gives them very great content:</l>
+            <l>But having finiſhed, and their phanſies ſpent,</l>
+            <l>The fruit indeed of th' art is then injoyd,</l>
+            <l>But th' art it ſelfe is, while the hands imployd.</l>
+            <l>Our childrens youth more uſefull is, but yet</l>
+            <l>Their infancie does more delight beget.</l>
+            <l>But to return to what we firſt propounded.</l>
+            <l>Although a wiſe man can be wholly bounded</l>
+            <l>Within himſelfe, yet he deſires a friend:</l>
+            <l>If for no other, yet for this ſole end</l>
+            <l>That he may practiſe amitie, and not</l>
+            <l>Let ſuch a ſpeciall vertue be forgot.</l>
+            <l>Not for the reaſons <hi>Epicurus</hi> gave</l>
+            <l>In that Epiſtle, that he one may have</l>
+            <pb n="29" facs="tcp:150278:15"/>
+            <l>T'aſſiſt him when he's fal'n into decay;</l>
+            <l>Or is reſtraind, or ſick: but that he may</l>
+            <l>Have one whom he in ſickneſſe may relieve,</l>
+            <l>Or from a deadly enemie reprieve.</l>
+            <l>Who minds himſelfe, and for that cauſe embraces</l>
+            <l>A mutuall friendſhip, he the ſame diſgraces.</l>
+            <l>As he began ſo will he end. He choſe</l>
+            <l>A friend in whom his truſt he might repoſe</l>
+            <l>In his reſtraint. No ſooner ſhall the chaine</l>
+            <l>Rattle, but he is gone. This is the vaine</l>
+            <l>Frindſhip, which people temporie call.</l>
+            <l>So long he will be welcome as he ſhall</l>
+            <l>Be profitable. And therefore friends flock round</l>
+            <l>'Bout them who with proſperity abound:</l>
+            <l>But leave them who grow poore to ſit alone:</l>
+            <l>Such friends when trial comes are quickly gone.</l>
+            <l>Of this we find examples ev'ry day:</l>
+            <l>Some their friends leave for fear, and ſome betray.</l>
+            <l>The end with the beginning muſt agree.</l>
+            <l>If any have begun a friend to bee,</l>
+            <l>Becauſe 'tis needfull: or if he ſuppoſe</l>
+            <l>That if any fit reward of friendſhip growes</l>
+            <l>But in it ſelfe alone, 'twill not <hi>be ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi>
+            </l>
+            <l>
+               <hi>To make him againſt friendſhip take reward.</hi>
+            </l>
+            <l>Why do I ſeek a friend? becauſe that I</l>
+            <l>May then have one with whom I'de wiſh to die:</l>
+            <l>Or elſe accompany to baniſhment:</l>
+            <l>Or with mine owne I may his death prevent.</l>
+            <l>What thou deſcrib'ſt not friendſhip is, but trade.</l>
+            <l>He that mindes profit, will himſelfe perſwade,</l>
+            <l>To look no further. Between amity</l>
+            <l>And Lovers paſſions there's ſome ſympathy:</l>
+            <pb n="30" facs="tcp:150278:16"/>
+            <l>Which we may call mad friendſhip. Yet ther's none</l>
+            <l>Will love for gain, or for ambition.</l>
+            <l>Love of it ſelfe, all other things neglecting,</l>
+            <l>Allures the minde of men to the affecting</l>
+            <l>Of ſuch a ſeeming beauty, hoping withall</l>
+            <l>That this affection will be mutuall.</l>
+            <l>What then? can lewd effects of luſt agree</l>
+            <l>With a good cauſe? But here thou't anſwer mee,</l>
+            <l>The queſtion is not whether friendſhip ought</l>
+            <l>For it owne ſelfe or ſomething elſe be ſought.</l>
+            <l>If for it ſelfe in ought to be deſir'd,</l>
+            <l>He may injoy it that can live retir'd</l>
+            <l>Contented with himſelfe. But how may he</l>
+            <l>Enjoy it? as a thing of excellency:</l>
+            <l>And muſt approach it with a minde unſhaken,</l>
+            <l>With change of Fortune, or with lucre taken.</l>
+            <l>He deprives friendſhip of her Majeſty,</l>
+            <l>That ſeeks her onely for proſperity.</l>
+            <l>A wiſe man's with himſelfe content. But this</l>
+            <l>By ſome, <hi>Lucilius,</hi> perverted is.</l>
+            <l>They a wiſe man too much reſtrain, and think</l>
+            <l>That he into his skin ſhould alwaies ſhrink.</l>
+            <l>We muſt diſtinguiſh, and this ſenſe allow:</l>
+            <l>A wiſe man's with himſelfe content; but how?</l>
+            <l>To live in happineſs, but not, to live.</l>
+            <l>For many things muſt him aſſiſtance give</l>
+            <l>In this, whereas to that is requiſite</l>
+            <l>Only a minde that keeps it ſelfe upright,</l>
+            <l>And contemns fortune. The diſtinction</l>
+            <l>
+               <hi>Cryſippus</hi> makes, muſt here be look't upon.</l>
+            <l>A wiſe man needs not any thing, although</l>
+            <l>He ſtands in need of many. But we know</l>
+            <pb n="31" facs="tcp:150278:16"/>
+            <l>On th'other ſide a fool does nothing want,</l>
+            <l>And yet wants all, by reaſon he hath ſcant</l>
+            <l>The uſe of any thing. A wiſe man needs</l>
+            <l>Hands, eyes, and ev'ry other thing that feeds</l>
+            <l>The being of this life. A wiſe man's ſtate</l>
+            <l>Needs nothing. For to need does intimate</l>
+            <l>Neceſſitie: and this we muſt denie,</l>
+            <l>That any wiſe man's in neceſſity.</l>
+            <l>Though with himſelfe he then be ſatisfi'd,</l>
+            <l>Yet he needs friends and many would provide.</l>
+            <l>Not that he may get happineſs thereby,</l>
+            <l>For he without friends can live happily;</l>
+            <l>The chief good to no outward help pretends,</l>
+            <l>But reſts at home, and on it ſelfe depends.</l>
+            <l>If of it ſelfe but any part be ſought</l>
+            <l>Out of it ſelfe, 'tis ready to be brought</l>
+            <l>To obay Fortune. What condition then</l>
+            <l>Of life, will that be of a wiſe man, when</l>
+            <l>Committed to ſome priſon, he's bereſt</l>
+            <l>Of friends: or elſe in ſome ſtrange Countrey left?</l>
+            <l>Or held in a long Voyage: or giv'n o're</l>
+            <l>By all, is thrown upon ſome barbarous ſhore;</l>
+            <l>Like that of <hi>Jove</hi> at the Worlds diſſolution,</l>
+            <l>When Heav'n and Earth, and gods are in confuſion:</l>
+            <l>Whole Nature ceaſing for a time. He reſts</l>
+            <l>Wholly within himſelfe, and there inveſts</l>
+            <l>His cogitations: ſome ſuch thing as this</l>
+            <l>A wiſe man does. He with him ſtill is,</l>
+            <l>And therein wrapt. As long as he's permitted</l>
+            <l>To rule his own affaires, he's well acquitted</l>
+            <l>With only himſelfe. When he thinks fit he marries,</l>
+            <l>Brings up his children, yet he lives, and tarries</l>
+            <pb n="32" facs="tcp:150278:17"/>
+            <l>Still with himſelfe: though he'll not live if he</l>
+            <l>Shall alwayes be debard of company.</l>
+            <l>No profit of his owne does him invite</l>
+            <l>To friendſhip, but a naturall appetite.</l>
+            <l>And as of other things ther's an innate</l>
+            <l>Sweetneſſe, ſo of friendſhip: as we hate</l>
+            <l>A ſolitary life, ſo we delight</l>
+            <l>In company: as nature does incite</l>
+            <l>Man, to love man, ſo by a ſecret kind</l>
+            <l>Of longing, we to friendſhip are inclind.</l>
+            <l>And though he be moſt fervent in his love,</l>
+            <l>Rankes his friends with himſelfe, oft-times above,</l>
+            <l>Yet in himſelfe he ſeates his good, and ſayes</l>
+            <l>As <hi>Stilpo</hi> 'gainſt whom <hi>Epicure</hi> inveighs</l>
+            <l>In that fore-nam'd Epiſtle: for when he</l>
+            <l>His countrey, wife, and children, found to be</l>
+            <l>Diſtroy'd, and loſt, he went forth all alone,</l>
+            <l>Yet happy ſtill from that deſtruction.</l>
+            <l>And meeting with <hi>Demetrius,</hi> whoſe Sir-name</l>
+            <l>From the deſtruction of Cities came,</l>
+            <l>And was cal'd <hi>Poliorcetes:</hi> who to boſt</l>
+            <l>His cruelty, askt if he ought had loſt?</l>
+            <l>
+               <hi>All my things are with me,</hi> ſaid he, Behold</l>
+            <l>A ſtout and valiant man, who thus controld</l>
+            <l>The victory of his foe. I have, ſayd he,</l>
+            <l>Loſt nothing. He compeld his enemie</l>
+            <l>To queſtion his owne conqueſt. I beare hence</l>
+            <l>All that is mine, as Juſtice, Temperance,</l>
+            <l>Prudence, and ev'n the vertue which does make us</l>
+            <l>Count nothing good that ever can forſake us.</l>
+            <l>We wonder at ſome creatures which through fire</l>
+            <l>Doe paſſe unhurt: we may that man admire</l>
+            <pb n="33" facs="tcp:150278:17"/>
+            <l>Much more, whoſe conſtant vertue him affords</l>
+            <l>A ſafe, and ſecure paſſage both through ſwords,</l>
+            <l>Ruine, and flames. Doſt thou not plainely ſee</l>
+            <l>How much 'tis eaſier to get victory</l>
+            <l>Ore a whole nation, than one man alone?</l>
+            <l>Such words no leſſe than he the Stoiks own.</l>
+            <l>Their unhurt goods they carry with the ſame</l>
+            <l>Courage, through cities when th' are in a flame.</l>
+            <l>They are contented with themſelves, and bound</l>
+            <l>Their whole felicitie within that ground.</l>
+            <l>But leſt thou ſhouldſt conceave, that onely we</l>
+            <l>Scatter abroad ſuch glorious ſpeeches. He,</l>
+            <l>Which ſo reproves this <hi>Stilpo, Epicure</hi>
+            </l>
+            <l>Hath ſent out ſuch, to which I would procure</l>
+            <l>Thy approbation: though already I</l>
+            <l>Have finiſhed my preſent diarie:</l>
+            <l>
+               <hi>Who thinkes not his own goods moſt large, and ſtable,</hi>
+            </l>
+            <l>
+               <hi>Though he poſſeſſe the world, is miſerable.</hi>
+            </l>
+            <l>Or if thou't rather have it thus declard,</l>
+            <l>(For we muſt now not words but ſence regard)</l>
+            <l>
+               <hi>Who judges not himſelfe to be moſt bleſt</hi>
+            </l>
+            <l>
+               <hi>Would wretched be, though he the world poſſeſt.</hi>
+            </l>
+            <l>And that from natures ground, ſuch words appeare</l>
+            <l>To be in uſe the Comicke Poet heare:</l>
+            <l>
+               <hi>He is not bleſt is who not underſtood</hi>
+            </l>
+            <l>
+               <hi>So by himſelfe.</hi> What though thy ſtate be good,</l>
+            <l>If thou conceav'ſt it ill? Or wilt thou ſay,</l>
+            <l>Though he that's baſely covetous, perhaps may</l>
+            <l>Say he is happy, or he thats Lord of ſtore</l>
+            <l>Of ſervants, but a ſervant unto more,</l>
+            <l>That his report ſhall therefore make him ſo?</l>
+            <l>Not what he ſayes, but what he thinkes, we know,</l>
+            <pb n="34" facs="tcp:150278:18"/>
+            <l>Is to be waigh'd: nor what he thinkes to day,</l>
+            <l>But at all times. Then do not thou give way</l>
+            <l>To the leaſt thought, that ſuch a rare thing can</l>
+            <l>Be ere enjoyd by an unworthy man.</l>
+            <l>A wiſe man onely with himſelf's content.</l>
+            <l>A foole to ſelfe diſlike is alwayes bent.</l>
+         </div>
+         <div n="10" type="epistle">
+            <head>
+               <hi>EPIST.</hi> X.</head>
+            <l>IT is ſo, and I doe not change my mind,</l>
+            <l>Fly many, few, even one. I cannot find</l>
+            <l>With whom thou ſhoul'dſt converſe: my judgment muſt</l>
+            <l>Tell thee, that I thee with thy ſelfe dare truſt.</l>
+            <l>
+               <hi>Crates</hi> a man who did, they ſay, partake</l>
+            <l>Of <hi>Stilpo's</hi> documents, of whom I ſpake</l>
+            <l>In my precedent Letter, when he ſaw</l>
+            <l>A yong man ſecretly himſelfe with draw,</l>
+            <l>
+               <hi>Askt what he did alone? I ſpeake,</hi> ſayd he,</l>
+            <l>
+               <hi>With mine owne ſelfe.</hi> Crates <hi>reply'd, then be</hi>
+            </l>
+            <l>
+               <hi>Carefull, that thou ſpeakeſt not with an ill man.</hi>
+            </l>
+            <l>We uſe to be as watchfull as we can</l>
+            <l>Of thoſe, who are oppreſt with griefe and care,</l>
+            <l>Leſt ſollitude ſhould bring them to deſpair.</l>
+            <l>Imprudent perſons ſhould not be alone:</l>
+            <l>For at that time their thoughts doe worke upon</l>
+            <l>Ill counſell given, and are plotting then</l>
+            <l>The ruine of themſelves, or other men:</l>
+            <l>Their ill affections they to deeds diſpoſe,</l>
+            <l>What feare, and ſhame kept ſecret, they diſcloſe;</l>
+            <l>Their boldneſſe then they whet, their luſts inflame:</l>
+            <l>Stir up their mallice, and the very aime,</l>
+            <l>And uſuall benefit of ſolitude,</l>
+            <l>Not to truſt any man, and to exclude</l>
+            <pb n="35" facs="tcp:150278:18"/>
+            <l>All feare of witneſſe, is ta'en away,</l>
+            <l>And loſt t'a foole, he does himſelfe betray.</l>
+            <l>See therefore now what I may hope of thee,</l>
+            <l>What I may promiſe rather: for to me</l>
+            <l>Hope is a word of doubtfull good: ther's none</l>
+            <l>With whom I'de rather wiſh thee than alone.</l>
+            <l>I call to memory with what height of ſpirit</l>
+            <l>Thou ſpak'ſt thoſe words ſo full of ſtrength &amp; merit:</l>
+            <l>Which I did then congratulate, and ſay,</l>
+            <l>Thoſe ſpeeches fell not haſtily away</l>
+            <l>From th'outward lips, but did with ſenſe abound:</l>
+            <l>His like is not among the people found:</l>
+            <l>He mindes the publicke weale. So ſpeak, ſo live:</l>
+            <l>To baſe dejection no admittance give.</l>
+            <l>Though all thy former vowes thou ſhould'ſt remit</l>
+            <l>Unto the Gods, yet now it will be fit</l>
+            <l>Tourge a new requeſt: that thou mayſt find</l>
+            <l>Sound reaſon, health of body, and of mind.</l>
+            <l>Yet wherefore ſhould I doubt but thou doſt uſe</l>
+            <l>Thoſe prayers dayly? do not thou refuſe</l>
+            <l>To aske God boldly, for thou canſt not want</l>
+            <l>The thing, that is not in his power to grant.</l>
+            <l>But that I may, as I am wont to doe,</l>
+            <l>With an Epiſtle, ſend a preſent too,</l>
+            <l>'Tis true which in <hi>Anthenadore</hi> we read,</l>
+            <l>
+               <hi>From all thy luſts thou't find thy ſelfe then freed,</hi>
+            </l>
+            <l>
+               <hi>When in thy prayrs to God, th'art thus far brought,</hi>
+            </l>
+            <l>
+               <hi>To ſeeke, but what may publickely be ſought.</hi>
+            </l>
+            <l>For what a madneſſe in moſt men appeares?</l>
+            <l>To whiſper ſhamefull vowes into Gods eares?</l>
+            <l>If any harken, then away they goe,</l>
+            <l>They'l tel God what th' are loth a man ſhould know.</l>
+            <pb n="36" facs="tcp:150278:19"/>
+            <l>Marke whether this might not be made a Law:</l>
+            <l>That we ſo live with men as if God ſaw;</l>
+            <l>And that we ſpeake to God, as without ſhame</l>
+            <l>We might believe that men did heare the ſame.</l>
+         </div>
+         <div n="11" type="epistle">
+            <head>
+               <hi>EPIST.</hi> XI.</head>
+            <l>I Have conferr'd with thy ingenious friend,</l>
+            <l>And by his firſt diſcourſe did apprehend</l>
+            <l>His mind, his wit, and how allready he</l>
+            <l>Improves: he gave a taſt what he will be.</l>
+            <l>For being ſurpriſd, his ſpeech was unprepard,</l>
+            <l>And after recollection, found it hard</l>
+            <l>To ſhake off baſhfulneſſe (a ſigne of grace</l>
+            <l>In yong men) bluſhes ſo poſſeſt his face.</l>
+            <l>Whereof (as I ſuppoſe) he will partake</l>
+            <l>Ev'en then, when he all vices ſhall forſake,</l>
+            <l>And be confirm'd in wiſdome: which we find</l>
+            <l>Cures not the naturall weakneſſes of mind</l>
+            <l>Or body: for although wiſdome may</l>
+            <l>Correct, it cannot take them quite away.</l>
+            <l>That which is fixt within, and is innate,</l>
+            <l>Art may amend, but not eradicate.</l>
+            <l>Many though very ſtout, in publicke ſweat,</l>
+            <l>Like thoſe whom labour puts into a heat.</l>
+            <l>In ſome, when th' are to ſpeake, moſt parts ſo alter,</l>
+            <l>Their knees will tremble, &amp; their tongus will falter,</l>
+            <l>Their teeth will grate, and their lips cling together:</l>
+            <l>Nor can theſe things be quite removed, either</l>
+            <l>By uſe, or rule. Nature will execute</l>
+            <l>Her power: and men that are moſt reſolute</l>
+            <l>Convince of fraylties: among which I name</l>
+            <l>Bluſhing, which ſeaſes with a kind of ſhame</l>
+            <pb n="37" facs="tcp:150278:19"/>
+            <l>Upon the graveſt. Though it moſt appeare</l>
+            <l>In younger men, who have more heate, and beare</l>
+            <l>A weaker forehead: yet it oft layes hold</l>
+            <l>On men of yeares, yea ſuch as are grown old.</l>
+            <l>Some men are never to be feared more,</l>
+            <l>Than when they bluſh: as opening then a dore</l>
+            <l>To caſt out modeſty. For <hi>Sylla,</hi> when</l>
+            <l>Bloud ſeaſ'd his face, was cruelleſt to men.</l>
+            <l>There could be nothing milder than th' aſpect</l>
+            <l>Of <hi>Pompey:</hi> for he could not but detect</l>
+            <l>His modeſty, as oft as he did make</l>
+            <l>Open adreſſes, and in publicke ſpake.</l>
+            <l>When <hi>Fabianus</hi> was a witneſſe brought</l>
+            <l>Into the Senate, modeſty ſo wrought</l>
+            <l>Upon him, that, I can remember well,</l>
+            <l>He ſuddenly into a bluſhing fell,</l>
+            <l>Which wonderouſly became him. This does ſpring</l>
+            <l>More often from the newneſſe of the thing,</l>
+            <l>Than ſhame. Nor yet does it ſo much aſtoniſh</l>
+            <l>Such as are unaccuſtom'd, as admoniſh</l>
+            <l>Them, in whom that infirmity does grow.</l>
+            <l>For as ſome have their bloud more temperate, ſo</l>
+            <l>Others more quick, moving from place to place,</l>
+            <l>And thereby apt to fly up to the face.</l>
+            <l>Theſe (as I ſayd) no wiſdome can withſtand:</l>
+            <l>For if it could all frailties countermand,</l>
+            <l>It certainely would be the Soveraigne</l>
+            <l>Of nature's ſelfe. We cannot quite reſtrain</l>
+            <l>What the conditions of our birth involve,</l>
+            <l>And bodie's mixture, though we long reſolve.</l>
+            <l>Theſe things can be no more remov'd, than brought.</l>
+            <l>Comedians, who by their art are taught</l>
+            <pb n="38" facs="tcp:150278:20"/>
+            <l>To repreſent affections, and t'expreſſe</l>
+            <l>Trouble, and feare, and the minds heavineſſe,</l>
+            <l>Doe baſhfulneſſe in this ſort imitate:</l>
+            <l>Their lookes like men in a dejected ſtate,</l>
+            <l>Are downward caſt: their voyce is low, their eyes</l>
+            <l>Fixt on the ground: but they cannot deviſe</l>
+            <l>How to command a bluſh, that neither can</l>
+            <l>Be hindrd, nor procurd, by any man.</l>
+            <l>Heer wiſdome will nor promiſe, nor aſſiſt,</l>
+            <l>'Tis it's owne law, comes and goes when it liſt.</l>
+            <l>But this diſcourſe requires a ſentence now:</l>
+            <l>Take it, 'tis wholeſome, and I wiſh that thou</l>
+            <l>Wouldſt fix it in thy minde. <hi>We muſt ſome wiſe</hi>
+            </l>
+            <l>
+               <hi>And honeſt man propound, and for our eyes</hi>
+            </l>
+            <l>
+               <hi>So place him, that we live as if be ſaw us,</hi>
+            </l>
+            <l>
+               <hi>And doe, as if his ſight did alwayes awe us.</hi>
+            </l>
+            <l>This admonition <hi>Epicurus</hi> gave,</l>
+            <l>
+               <hi>(Lucillius)</hi> appointing us to have</l>
+            <l>A keeper, and a tutor: and ther's cauſe:</l>
+            <l>For if a witneſſe preſent be, it draws</l>
+            <l>Offenders from their vices. Let's apply</l>
+            <l>Our thoughts to one, by whoſe authority</l>
+            <l>Our very ſecrets may be made more holy.</l>
+            <l>O happy he! who can prevent our folly,</l>
+            <l>Not onely when he's ſeen, but thought upon.</l>
+            <l>O happie hee! who can ſo reverence one,</l>
+            <l>That by remembrance of him he amends.</l>
+            <l>He that an other can ſo feare, intends</l>
+            <l>To be ſoon feard himſelfe. Therefore propoſe</l>
+            <l>
+               <hi>Cato,</hi> or if he be too rigid, chooſe</l>
+            <l>One of a milder temper, <hi>Lelius.</hi>
+            </l>
+            <l>Chooſe one whoſe ſpeech, and life's ingenuous:</l>
+            <pb n="39" facs="tcp:150278:20"/>
+            <l>Whoſe countenance to thee declares his thought;</l>
+            <l>Let ſuch a one into thy mind be brought</l>
+            <l>As an example, or a guardian.</l>
+            <l>For, as I ſay, 'tis needfull t'have a man,</l>
+            <l>After whoſe manners we our own may ſquare,</l>
+            <l>Without a rule, faults uncorrected are.</l>
+         </div>
+         <div n="12" type="epistle">
+            <head>
+               <hi>EPIST.</hi> XII.</head>
+            <l>WHer 'ere I goe, ſignes of my age appeare.</l>
+            <l>I com into my countrey houſe, and there</l>
+            <l>Complaine of the expence which the decayes</l>
+            <l>Are like to put me to: my Bayliefe ſays</l>
+            <l>The fault is not in him, he to uphold</l>
+            <l>The thing does what he can, but th'houſe is old.</l>
+            <l>This houſe I built, what fate doe I lie under</l>
+            <l>When walls of mine own age thus fall in ſunder?</l>
+            <l>The next occaſion I take to chide;</l>
+            <l>I frowning ſay, it cannot be denied,</l>
+            <l>Theſe plane-trees are neglected, for they beare</l>
+            <l>No leaves, their drie bowes ſhrivell ev'ry where.</l>
+            <l>How full of moſſe their bodies are? no doubt,</l>
+            <l>This could not be, had they been dig'd about,</l>
+            <l>And water'd. Straight way, by my Gemins, he</l>
+            <l>Proteſts and ſwears, there wants no induſtrie</l>
+            <l>To make them thrive. But to prevent my rage,</l>
+            <l>Tells me the cauſe of fading is their age.</l>
+            <l>Theſe trees I planted, and firſt ſaw them grow,</l>
+            <l>What difference then tweene us? to th' gate I goe.</l>
+            <l>Aske whos' this ſo decreped, and decayd?</l>
+            <l>And at the dore, as dead men are, is layd,</l>
+            <l>(For he the potter was) whence came he? why?</l>
+            <l>Do'ſt thou take care of ſtrangers corps? ſay I.</l>
+            <pb n="40" facs="tcp:150278:21"/>
+            <l>But he replies, ſir, doe not you me know?</l>
+            <l>I'm he, on whom you uſed to beſtow</l>
+            <l>So many fairings: I <hi>Felicius</hi> am</l>
+            <l>
+               <hi>Phyloſitus</hi> the Bayliefs ſon, the ſame</l>
+            <l>That made you ſport. This dotard ſure miſtakes,</l>
+            <l>Say I, turnes child, and childiſh paſtime makes.</l>
+            <l>And it is very likely, his teeth too</l>
+            <l>Fall from his gums, as childrens uſe to doe.</l>
+            <l>I owe this to my country houſe, that I</l>
+            <l>My old age whereſo'ere I looke deſcry.</l>
+            <l>Let's then embrace and love it, for 'tis fraught</l>
+            <l>With pleaſure, if we uſe it as we ought.</l>
+            <l>Apples are beſt when they are almoſt gon;</l>
+            <l>And childhood is moſt comely when 'tis don:</l>
+            <l>Wine-drinkers in the laſt carouſe delight,</l>
+            <l>That drowne their cares, inebriat's them out-right.</l>
+            <l>All pleaſure reſerves that which is moſt ſweet</l>
+            <l>Untill the laſt: and we our age may greet</l>
+            <l>With no ſmall joy, at leaſt if that age be</l>
+            <l>Declining, not decrepid: though I ſee</l>
+            <l>Even ſuch as ſtand upon the utmoſt brink</l>
+            <l>Of life, their pleaſures have: or we may think</l>
+            <l>To need no pleaſure, ſerves in ſtead of pleaſure.</l>
+            <l>Do ubtleſſe to baniſh luſts, hath no ſmall meaſure</l>
+            <l>Of ſweetneſs. But thou't ſay, it irkſome is</l>
+            <l>T' have death before our eyes. I anſwer, this</l>
+            <l>Ought ever to be lookt upon, as well</l>
+            <l>By yong men, as by old. Death does not tell</l>
+            <l>The yeers of men, nor ſummon by a role.</l>
+            <l>None is ſo old, but he without controle,</l>
+            <l>May hope to live a day, and yet a day</l>
+            <l>Is a degree of life: our whole age may</l>
+            <pb n="41" facs="tcp:150278:21" rendition="simple:additions"/>
+            <l>Be found by obſervation to conſiſt</l>
+            <l>Of parts, which many orbes together twiſt.</l>
+            <l>One whereof all begirts, which we may call</l>
+            <l>Our birth day reaching to our funerall.</l>
+            <l>Another the full ſpace of youth unfolds</l>
+            <l>And one our childhood in it's circle holds.</l>
+            <l>Ther's then a yeare in which all times incloſ'd</l>
+            <l>Whereof, b'ing multiply'd, our lives compoſd.</l>
+            <l>A month hath a leſſe orbe, a day the leaſt,</l>
+            <l>Yet this begins, and ends from Eaſt, to Weſt.</l>
+            <l>And therefore <hi>Heracletus,</hi> whoſe known marke,</l>
+            <l>Was from darke ſayings to be called darke,</l>
+            <l>Was wont to ſay, <hi>one daye's the ſame withall.</hi>
+            </l>
+            <l>This hath by ſundry men had ſeverall</l>
+            <l>Interpretations: he ſayd it was</l>
+            <l>The ſame in houres, and that for truth muſt paſſe.</l>
+            <l>Becauſe if from a day the time proceeds</l>
+            <l>Of four and twenty houres, all dayes muſt needs</l>
+            <l>Be equall in themſelves, for the night hath</l>
+            <l>That which the day hath loſt. Another ſaith</l>
+            <l>One day is equall in ſimilitude</l>
+            <l>To all. The longeſt time cannot include</l>
+            <l>More then one day, light, darkeneſſe, and</l>
+            <l>Th'alternate courſe, by which the world does ſtand</l>
+            <l>Longer or ſhorter makes no difference,</l>
+            <l>For there is ſtill the ſame circumference.</l>
+            <l>We therefore all our dayes muſt ſo diſpoſe,</l>
+            <l>As if we finiſht and compleated life, like thoſe</l>
+            <l>Who uſe in armies to bring up the reare.</l>
+            <l>
+               <hi>Pacuvius,</hi> who by abiding there,</l>
+            <l>Made <hi>Syri'a</hi> his owne countrey, when with wine,</l>
+            <l>And funerall Feaſts he uſd t'inſhrine,</l>
+            <pb n="42" facs="tcp:150278:22"/>
+            <l>From ſupper to his chamber borne with rites,</l>
+            <l>And lewd applauſe of his ſtale catamites,</l>
+            <l>Cauſd this to be with aery muſick ſung,</l>
+            <l>
+               <hi>He' hath liv'd, he' hath livd,</hi> and thus his whole houſe rung.</l>
+            <l>What he with an ill conſcience did, we may</l>
+            <l>Do with a good, and blith and jocond ſay,</l>
+            <l>As oft as we our ſelves to ſleepe preſent,</l>
+            <l>
+               <hi>I' have liv'd, and paſt the time that nature lent.</hi>
+            </l>
+            <l>If God be pleaſd to ad another day,</l>
+            <l>We ſhould receive it thank efully, and may</l>
+            <l>A count him very happy, and a man</l>
+            <l>Fixt in th' injoyment of himſelfe, that can</l>
+            <l>Expect the morrow without anxious care.</l>
+            <l>Whoſoere ſays <hi>I have lived,</hi> does prepare</l>
+            <l>To riſe next day to profit? tis fit now</l>
+            <l>I finiſh my Epiſtle. But, ſayſt thou,</l>
+            <l>Shall it to me without advantage come?</l>
+            <l>Feare not, it ſhall bring ſome. Why ſaid I ſome?</l>
+            <l>Much. For what words more excellentcan be,</l>
+            <l>Than theſe which I give him to ſend to thee?</l>
+            <l>
+               <hi>To live in need is ill, but 'tis agreed</hi>
+            </l>
+            <l>
+               <hi>Ther's no neceſſity to live in need.</hi>
+            </l>
+            <l>Why ſhould I not ſay none? ſince ev'ry where</l>
+            <l>The way to liberty is ſhort and cleare.</l>
+            <l>Thankes be to God no man is forc't to live:</l>
+            <l>We to neceſſity it ſelfe may give</l>
+            <l>The law. But thou wilt ſay, this came</l>
+            <l>From <hi>Epicurus,</hi> why do'ſt thou lay claime</l>
+            <l>To what's anothers? what is true, is mine.</l>
+            <l>His ſayings I'll inculcate with deſigne</l>
+            <l>T' have ſuch as ſo ingage to men, that they</l>
+            <l>Value their perſons, more then what they ſay,</l>
+            <pb n="43" facs="tcp:150278:22"/>
+            <l>In the aſſurance of this truth to reſt,</l>
+            <l>Thoſe things belong to all which are the beſt.</l>
+         </div>
+         <div n="13" type="epistle">
+            <head>
+               <hi>EPIST.</hi> XIII.</head>
+            <l>I Know thou haſt much courage; for I find,</l>
+            <l>That even before I ſeaſoned thy mind</l>
+            <l>With precepts which are wholſome, &amp; prevaile</l>
+            <l>Againſt adverſity, thou didſt not faile</l>
+            <l>To ſatisfie thy ſelfe' gainſt fortune's power.</l>
+            <l>And much more then when ſhe began to lower,</l>
+            <l>And made thee come to handy blows, whereby</l>
+            <l>Thou hadſt occaſion thy ſtrength to try.</l>
+            <l>For as we never can be confident,</l>
+            <l>Till threatning dangers ſundry feares preſent,</l>
+            <l>And ſometimes ſet upon us. So the ſtout</l>
+            <l>And conſtant mind reſolving to caſt out</l>
+            <l>All baſe ſubjection to anothers will,</l>
+            <l>Is trie'd by danger, that's the touch-ſtone ſtill.</l>
+            <l>He is not like the combate to make good</l>
+            <l>That hath no ſcars. He who hath oft loſt bloud</l>
+            <l>And in the fight grated his teeth, and though</l>
+            <l>Repulſd, hath ruſh'd againe upon his foe.</l>
+            <l>He, who though often falling, letting not</l>
+            <l>His courage fall, as often up hath got,</l>
+            <l>Will enter with more confidence the liſt,</l>
+            <l>Then let me in this ſimilie perſiſt.</l>
+            <l>Fortune hath oft lay'n heavy on thee, yet</l>
+            <l>Thou didſt not yield, but alwayes from her get,</l>
+            <l>Returning with more courage: vertue thrive's</l>
+            <l>By provocation, and by wounds revives.</l>
+            <l>Yet if thou thinkſt it meet, from me accept</l>
+            <l>Some aide, by which thou't be in ſafety kept</l>
+            <pb n="44" facs="tcp:150278:23"/>
+            <l>There are, <hi>Lucillus,</hi> may things which ſcare</l>
+            <l>Rather then hurt: moſt of our dangers are</l>
+            <l>More in conceit then truth: to thee I ſpeake</l>
+            <l>Not the ſtrong words of Stoicks, but more weake.</l>
+            <l>For we ſay, all thoſe things which do wring forth</l>
+            <l>Howlings and groanes, are ſlight and little worth.</l>
+            <l>Lets paſſe by theſe great words, though, good Gods, true!</l>
+            <l>I wiſh that thou wouldeſt onely this purſue,</l>
+            <l>Not to anticipate thy ill, or make</l>
+            <l>That iminent, which nere perhaps will take</l>
+            <l>Effect, at leaſt is not already come.</l>
+            <l>Some things more trouble us than they ought &amp; ſom</l>
+            <l>Before they ought: ſome other things perplex us</l>
+            <l>Extreamely, which ought not at all to vex us.</l>
+            <l>We griefe augment, or faine, or elſe foreſtall.</l>
+            <l>As for that other which 'tweene us does fall</l>
+            <l>In queſtion, we'll defer it: what I deem</l>
+            <l>To be but light, thou heavy wilt eſteeme.</l>
+            <l>For ſome, I know, under the whip will ſmile,</l>
+            <l>And others at one buffet groanes the while.</l>
+            <l>But whether theſe things from their owne ſtrength flow,</l>
+            <l>Or from our weakeneſs wee'l herafter ſhow.</l>
+            <l>Mean time do thou but this: when any ſhall</l>
+            <l>Seeke to perſwade thee thou art wretched, call</l>
+            <l>Thy reaſon to thee, and conſider well</l>
+            <l>What thou doſt feele, and not what others tell.</l>
+            <l>Say to thy ſelfe with patience, who knoweſt beſt</l>
+            <l>Thine owne condition, why have theſe expreſt</l>
+            <l>Such griefe for me? why do they tremble ſo,</l>
+            <l>And feare to touch, or to come neare? as though</l>
+            <l>Calamities infection did containe:</l>
+            <l>Does any hurt, in what they feare, remaine?</l>
+            <pb n="45" facs="tcp:150278:23"/>
+            <l>Is not the thing reputed to be ill,</l>
+            <l>Rather then ſo indeed? be therefore ſtill</l>
+            <l>Ready t' interrogate thy ſelfe, and ſay</l>
+            <l>Whether do I without a cauſe give way</l>
+            <l>To trouble, and vexation? doe I make</l>
+            <l>That ill, which is not? what courſe ſhall I take,</l>
+            <l>Sayſt thou, to know if what diſturbes my reſt</l>
+            <l>Be true or falſe? to try that here's a teſt.</l>
+            <l>We troubled are either at preſent things,</l>
+            <l>Or future, or at both. Sence eaſily brings</l>
+            <l>A judgement of things preſent: if unbound</l>
+            <l>Thy body be and in thy power, and ſound,</l>
+            <l>And if no injury procures thy woe;</l>
+            <l>What future is thou afterward ſhalt know:</l>
+            <l>That is not this dayes worke. But 'tis expected.</l>
+            <l>How art thou ſure the ill will be effected?</l>
+            <l>For we with jealouſies much troubled are;</l>
+            <l>And that which oftentimes procures a warr</l>
+            <l>Report, will much more worke on each of us.</l>
+            <l>'Tis very true my deare <hi>Lucilius,</hi>
+            </l>
+            <l>We quickly to opinions do adhere,</l>
+            <l>And queſtion not the thing that cauſes feare:</l>
+            <l>Nor doe we ſhake it off, but thereat tremble:</l>
+            <l>And turning ſo our backes we much reſemble</l>
+            <l>Thoſe, whom the duſt made by a flocke of ſheepe</l>
+            <l>Drives from their tents, or that are ſtruck with deep</l>
+            <l>Aſtoniſhment, at ſome ſtrange fable bred</l>
+            <l>Among the vulgar, without author ſpred.</l>
+            <l>Falſe things, I know not how, do more moleſt,</l>
+            <l>Whereas the true within their meaſure reſt.</l>
+            <l>Whatſe'ver an uncertaine rumor ſends,</l>
+            <l>Is ſubject to conjectures, and depends</l>
+            <pb n="46" facs="tcp:150278:24"/>
+            <l>On the conſtruction of a fearefull mind.</l>
+            <l>And therefore Panick above other kind</l>
+            <l>Of feares, is carry'd on with violence,</l>
+            <l>Thoſe without reaſon are, this without ſenſe.</l>
+            <l>Then let's make further ſearch. Some future ill</l>
+            <l>Is like t'enſue, we are not ſure it will.</l>
+            <l>How many 'unexpected things fall out?</l>
+            <l>How many 'expected are nere brought about.</l>
+            <l>But ſay they ſhould heereafter chance. Yet why</l>
+            <l>Shouldeſt thou make haſt to meet thy miſery?</l>
+            <l>When ill does come thou ſoone enough wilt grieve.</l>
+            <l>In the meane time do thou the beſt believe.</l>
+            <l>What ſhall I gaine by thy credulity?</l>
+            <l>Time. Many things may intervene, whereby</l>
+            <l>Th'approaching danger may be ſtopt, or paſt:</l>
+            <l>Or elſe upon an others head be caſt.</l>
+            <l>A raging fire hath opt away to flight.</l>
+            <l>And ſome have from a ruin'd houſe fal'n light.</l>
+            <l>Some from the ſtroake of death have been repriv'd</l>
+            <l>And have the executioner furviv'd.</l>
+            <l>For even il-fortune hath it's levity,</l>
+            <l>It may, or may not come. And therefore I</l>
+            <l>Advile thee while 'tis not, to thinke the beſt.</l>
+            <l>Oft-times when no true fignes do manifeſt</l>
+            <l>Enſuing ill, the mind vaine things pretends:</l>
+            <l>And either doubtfull wordes miſapprehends,</l>
+            <l>Or when another is with us offended,</l>
+            <l>Conceives far more, than is perhaps intended:</l>
+            <l>Not waighing how much anger hee does ſhow,</l>
+            <l>But to what height an angry man may goe,</l>
+            <l>If feare be what it may, there will be found</l>
+            <l>No cauſe of life, of miſery no bound.</l>
+            <pb n="47" facs="tcp:150278:24"/>
+            <l>Let wiſdome here aſſiſt: by ſtrength of mind</l>
+            <l>Let's now reject the feare, whereof we find</l>
+            <l>Apparent cauſe: at leaſt let errour chaſe</l>
+            <l>Errour away, and let hope feare diſplace.</l>
+            <l>Of thoſe things which are feard ther's none ſo ſure,</l>
+            <l>But it is ſurer, that what does procure</l>
+            <l>Both feare and hope, deceaves us. Let us then</l>
+            <l>Take care t'examine feare, and hope, and when</l>
+            <l>All things are found uncertaine, let us doe</l>
+            <l>For our owne eaſe what w'have moſt mind unto.</l>
+            <l>And though there be more arguments of feare,</l>
+            <l>yet let us this courſe follow, and forbeare</l>
+            <l>To toyle and vex our ſelves, and keepe this ſtill</l>
+            <l>Fixt in our minds, thus moſt men, though no ill</l>
+            <l>They feele, nor certaine are they ever ſhall,</l>
+            <l>Do ner'theleſſe into diſtempers fall.</l>
+            <l>For no man makes reſiſtance when he finds</l>
+            <l>Feare once begin to trouble him, or minds</l>
+            <l>How to finde out the truth. No man reſorts</l>
+            <l>To reaſon, when his eares meet ſad reports.</l>
+            <l>Or ſayes the author's vaine, and being vaine</l>
+            <l>Does either vainely credit them or faine.</l>
+            <l>We yield up our beleife to what we heare:</l>
+            <l>And doubtfull things, as they were certaine, feare.</l>
+            <l>We keepe no moderation in our errour,</l>
+            <l>A ſcruple ſoone converts into a terror.</l>
+            <l>I am aſham'd ſuch language to deviſe,</l>
+            <l>And cheriſh thee with ſuch ſlight remedies.</l>
+            <l>Let others ſay perhaps this will not be:</l>
+            <l>But thou, what if it happen? we ſhall ſee</l>
+            <l>Whether it will or not. 'Twill come perchance</l>
+            <l>For my behoofe, death will my life advance.</l>
+            <pb n="48" facs="tcp:150278:25"/>
+            <l>Poyſon made <hi>Socrates</hi> more great. If wee</l>
+            <l>The ſword, th'aſſertor of his libertie,</l>
+            <l>Wreſt out of <hi>Cato</hi>'s hand, we then detract</l>
+            <l>Much, from the glory of ſo brave an act.</l>
+            <l>But too much time is in adviſing ſpent,</l>
+            <l>T'incourage thee is more expedient.</l>
+            <l>I doe not lead thee to thoſe wayes which thwart</l>
+            <l>Thy nature, thou for theſe things framed art.</l>
+            <l>Then let not thy endeavours be forborne,</l>
+            <l>Thy innate gifts to cheriſh and adorne.</l>
+            <l>But I ſhall end my Letter now, if I</l>
+            <l>Set to the ſeale, that is, if I applie</l>
+            <l>Some gallant phraſe that to our uſe relates.</l>
+            <l>
+               <hi>Follie 'mong other ills, appropriates</hi>
+            </l>
+            <l>
+               <hi>This alſo, that it ſtill begins to live.</hi>
+            </l>
+            <l>If to the meaning of theſe words thou't give</l>
+            <l>(<hi>Lucillius</hi> the beſt of men) good heed,</l>
+            <l>Thou'lt underſtand what ſordid things proceed</l>
+            <l>From the vaine thoughts of men, who dayly mind</l>
+            <l>New wayes of life, and when even death they find</l>
+            <l>Approaching, they vaine hopes of life purſue.</l>
+            <l>Looke round about, and thou ſhalt often view</l>
+            <l>Old men that are prepar'd to venter on</l>
+            <l>Long journeys, buſineſſe, and ambition.</l>
+            <l>Yet nothing can be found of greater ſcorne,</l>
+            <l>Than an old man beginning to be borne.</l>
+            <l>I ſhould not add an author to this ſpeach,</l>
+            <l>But that it is more hidden from the reach</l>
+            <l>Of vulgar eares, and is not found among</l>
+            <l>Thoſe ſayings that by <hi>Epicure</hi> are flung</l>
+            <l>Abroad, and into common uſe are grown,</l>
+            <l>Which I have both approv'd, and made mine own.</l>
+         </div>
+         <div n="14" type="epistle">
+            <pb n="49" facs="tcp:150278:25"/>
+            <head>
+               <hi>EPIST.</hi> XIV.</head>
+            <l>I Yield there is in us an in-bred care</l>
+            <l>Of our owne bodies: I confeſſe they are</l>
+            <l>To be preſerv'd. But though I not denie</l>
+            <l>Indulgence due to them, yet ſlaverie</l>
+            <l>I doe denie. For who the body ſerves,</l>
+            <l>Who out of feare for that, from reaſon ſwerves</l>
+            <l>Too much, whoſe ſole regard to that is ti'd,</l>
+            <l>He ſurely will ſerve many things beſide.</l>
+            <l>We muſt diſpoſe our actions, not as though</l>
+            <l>We for the body ought to live, but ſo</l>
+            <l>As we without the body cannot live:</l>
+            <l>The too much care whereof doe's often give</l>
+            <l>Tormenting feares, load's us with ſorrows, flings</l>
+            <l>Contempt upon us, and reproaches brings.</l>
+            <l>Whoſ'ever his own body too much prizes,</l>
+            <l>All other things that honeſt are, diſpiſes.</l>
+            <l>Let a ſtrickt care thereof be had, yet ſo,</l>
+            <l>That when the duties we to reaſon owe,</l>
+            <l>To honour, and fidelity require,</l>
+            <l>Lets not refuſe to caſt it into fire.</l>
+            <l>Yet let us ſhun, as much as in us lies,</l>
+            <l>Not onely harmes but incommodities.</l>
+            <l>Let us our ſafety mind, and not forbeare</l>
+            <l>A dayly care t'avoid the things we feare.</l>
+            <l>Whereof there are three kinds, as I ſuppoſe,</l>
+            <l>Want, ſickneſſes, and all the ill that growes</l>
+            <l>From an offended power, of which none beates</l>
+            <l>So fiercely on us, as what power threats.</l>
+            <l>That rayſes tumults, and a noiſe does make;</l>
+            <l>As for thoſe other which from nature take</l>
+            <pb n="50" facs="tcp:150278:26"/>
+            <l>Their ground, want, ſickneſſe filently appeare,</l>
+            <l>And with no terrour ſtrike the eye or eare:</l>
+            <l>This comes with dreadfull pomp, fire, ſword, and chains,</l>
+            <l>And ſavage beaſts ſent in with horr'id pain's</l>
+            <l>To humane breſts: heer may we alſo looke</l>
+            <l>Upon a priſon, gibber, racke, or hooke:</l>
+            <l>Stakes through the mouth forc't fro<g ref="char:cmbAbbrStroke">̄</g> the fundament,</l>
+            <l>And members by driv'n horſes piece-meale rent:</l>
+            <l>The coat with combuſtible matter noynted,</l>
+            <l>And what elſe cruell-tyrants have appointed.</l>
+            <l>'Tis then no wonder if the feare of this</l>
+            <l>Be greateſt, whoſe varieties great is,</l>
+            <l>And preparation terrible. For as</l>
+            <l>A <hi>Torturer</hi> the ſooner brings to paſſe</l>
+            <l>His purpoſe, when with ſundry inſtruments</l>
+            <l>Of various torments he himſelfe preſents.</l>
+            <l>(For they who elſe with patience would hold out</l>
+            <l>By that dire pomp to yield are brought about)</l>
+            <l>So of ſuch things as tame and quell the thought</l>
+            <l>They prevaile moſt that with moſt ſhew are brought.</l>
+            <l>Thoſe plagues are no leſſe grievous, hunger, thirſt,</l>
+            <l>Impoſtumes bred, and in the intrailes burſt:</l>
+            <l>Feavers that ſcald the bowells: but yet they</l>
+            <l>Are hid from view, have nothing to diſplay.</l>
+            <l>Theſe like great armies by their equipage,</l>
+            <l>And dreadfull ſight orecome ere they engage.</l>
+            <l>Then let us ſtrive offences to forbeare.</l>
+            <l>Sometimes it is the people we muſt feare,</l>
+            <l>And ſometimes, if a Senate rule the ſtate,</l>
+            <l>With the chiefe men we muſt ingratiate:</l>
+            <l>Sometimes we muſt of all thoſe ſtand in awe</l>
+            <l>Who of, and to the people give the law.</l>
+            <pb n="51" facs="tcp:150278:26"/>
+            <l>Thave all theſe friends, is hard: it may ſuffice</l>
+            <l>At leaſt, to have them not our enemies.</l>
+            <l>A wiſeman therefore will not undergoe</l>
+            <l>The anger of great men, but ſhun it ſo</l>
+            <l>As marriners doe ſtormes, which thou might'ſt ſee</l>
+            <l>When thou didſt croſſe the Sea to <hi>Sicilie.</hi>
+            </l>
+            <l>Raſh pilots value not the South-wind's threats,</l>
+            <l>Which the Sicilian Sea with fury beats,</l>
+            <l>And forces in to whirle-pooles. They forbeare</l>
+            <l>The left hand-ſhore, and to the other ſtere</l>
+            <l>Nearer <hi>Carib des</hi> where the waters roare:</l>
+            <l>But the more warie, they inquire before</l>
+            <l>Of men that know the place, of tide and wether,</l>
+            <l>And ſhun the place where whirl-winds meet toge<g ref="char:EOLhyphen"/>ther.</l>
+            <l>Heer's the condition of a wiſeman, hee</l>
+            <l>Avoyds the place that dangerous may be;</l>
+            <l>But with this caution, not to have it thought</l>
+            <l>He does avoyd it. Safety much is wrought</l>
+            <l>By ſeeming not to ſeeke it purpoſely,</l>
+            <l>For we accuſe the power that we doe flie;</l>
+            <l>Wherefore we muſt our thoughts to this inure,</l>
+            <l>How from the people we may be ſecure.</l>
+            <l>To doe which, firſt lets ſhun whats'ever ſtirs</l>
+            <l>Great emulation 'mong competitors.</l>
+            <l>Next, let us not be Lords of any thing</l>
+            <l>That to the ſpoyler may great profit bring.</l>
+            <l>How ſmal's the bodie's ſpoyle? none will purſue</l>
+            <l>Man's bloud for that meer cauſe, or very few.</l>
+            <l>Gain more then hatred moves. A thiefe lets goe</l>
+            <l>An empty traveller. A poore man though</l>
+            <l>He be beſet is ſafe. From three things then,</l>
+            <l>According to the rules of ancient men,</l>
+            <pb n="52" facs="tcp:150278:27"/>
+            <l>We muſt take ſpeciall care our lives t'exempt;</l>
+            <l>From hatred, and from envy, and contempt.</l>
+            <l>How this may, be wiſdome alone will ſhow,</l>
+            <l>For ther's a middle way, though hard to know,</l>
+            <l>Whereby into contempt wee may not run,</l>
+            <l>While we the feare of envy ſeeke to ſhun.</l>
+            <l>Nor while we would avoyd ſuſpition,</l>
+            <l>To make our ſelves fit to be trod upon.</l>
+            <l>Some, 'cauſe they may be fear'd, to feare have cauſe;</l>
+            <l>We muſt be circumſpect, for either draws</l>
+            <l>An equall danger. Let us therefore flie</l>
+            <l>For our own ſafeguard to Philoſophy.</l>
+            <l>This not with good men onely, but with ſuch</l>
+            <l>As are not wholly bad, will grace us much.</l>
+            <l>For Oratorie, and what elſe invites</l>
+            <l>The peoples favour, have their oppoſites.</l>
+            <l>This which is peacefull, and its own worke minds</l>
+            <l>Can nere be ſcornd: but from all ſcience finds</l>
+            <l>A due regard, even from the worſt that are,</l>
+            <l>For wickedneſſe can never run ſo far,</l>
+            <l>Nor ever againſt vertue ſo conſpire,</l>
+            <l>But that Philoſophie will keepe intire</l>
+            <l>It's name and honour: alwayes with this tie,</l>
+            <l>That it be handled calmly and modeſtly.</l>
+            <l>But what? did <hi>Cato</hi> then phloſophiſe</l>
+            <l>Calmely and modeſtly, when his adviſe</l>
+            <l>Oppoſ'd a civill war? when he between</l>
+            <l>Two potent princes arm'd with rage, and ſpleen,</l>
+            <l>Did intercede: and who, when ſome contended</l>
+            <l>With <hi>Caeſar,</hi> ſome with <hi>Pompey,</hi> both offended.</l>
+            <l>It is a queſtion whether it were fit</l>
+            <l>For a wiſeman then at the helme to fit.</l>
+            <pb n="53" facs="tcp:150278:27"/>
+            <l>What meanſt thou <hi>Marcus Cato?</hi> the conteſt</l>
+            <l>Is not for liberty, that was ſuppreſt</l>
+            <l>Long ſince: the ſtrife is whether now</l>
+            <l>We ſhall to <hi>Caeſar</hi> or to <hi>Pompey</hi> bow.</l>
+            <l>What's this to thee? thou haſt therein no ſhare:</l>
+            <l>We muſt receive a Prince, what need'ſt thou care</l>
+            <l>Which ſhall be he? the better cannot gaine</l>
+            <l>The conqueſt, he that ſhall at length be faine</l>
+            <l>To yield, may be the worſe: he cannot be</l>
+            <l>The better, that obtaines the victorie.</l>
+            <l>I heere on <hi>Catoes</hi> latter yeares do touch.</l>
+            <l>But truely neither were his former ſuch,</l>
+            <l>That a wiſe man might be admitted to</l>
+            <l>That rapine, which was like the ſtate t'undoe.</l>
+            <l>What elſe did <hi>Cato</hi> then, but cry aloud,</l>
+            <l>Throwing forth empty wordes, when in the crowd</l>
+            <l>Of people, he was ſpit on, and abus'd?</l>
+            <l>And when he to be carry'd forth refuſ'd,</l>
+            <l>They drag'd him from the Senate houſe at laſt,</l>
+            <l>And after all him into priſon caſt.</l>
+            <l>We'll ſhew in time whether a wiſeman may</l>
+            <l>Suffer his labour to be caſt away.</l>
+            <l>In the meane while I bid thee looke upon</l>
+            <l>Thoſe, who from publicke buſineſſes have gon</l>
+            <l>To order their own lives: and without a we</l>
+            <l>Of power, to bring mankind to reaſons law.</l>
+            <l>A wiſe man publicke manners never flies,</l>
+            <l>Nor drawes the people after novelties.</l>
+            <l>What then, will he who lives thus be ſecure?</l>
+            <l>This verily I can no more aſſure</l>
+            <l>Than health in temp'rat men, and yet we know</l>
+            <l>That health from temperance does chiefly grow.</l>
+            <pb n="54" facs="tcp:150278:28"/>
+            <l>A ſhip is ſometimes in the Haven loſt:</l>
+            <l>What thinkſt thou' of that which in the ſea is toſt?</l>
+            <l>He that unſafe is in a quite life,</l>
+            <l>What hazard will he run by publicke ſtrife?</l>
+            <l>The innocent do ſometimes periſh: trew,</l>
+            <l>But oftener the nocent. He may rew</l>
+            <l>The art that he profeſſes, who is hit,</l>
+            <l>And wounded through the ornaments of it.</l>
+            <l>A wiſeman therefore will his thoughts apply</l>
+            <l>To reaſon, not events. Beginnings lie</l>
+            <l>In our own power: fortune directs the end,</l>
+            <l>Unto whoſe ſentence I'll not condiſcend.</l>
+            <l>But it may bring ſome trouble, ſome diſtreſſe!</l>
+            <l>A thiefe is not condemnd to death, unleſſe</l>
+            <l>He kill. But now I know thy dayly pay</l>
+            <l>Is lookt for: I gold in thy hand will lay.</l>
+            <l>And ſince of gold I have made mention, take</l>
+            <l>What will the uſe thereof more gratefull make.</l>
+            <l>
+               <hi>He enjoys riches moſt, who needs them leaſt.</hi>
+            </l>
+            <l>Tell me ſayſt thou, the author. 'Tis profeſt,</l>
+            <l>(That thou mayſt know what freedome we intend)</l>
+            <l>That what belongs to others wee'll commend.</l>
+            <l>The words to <hi>Epicurus</hi> appertaine,</l>
+            <l>Or <hi>Metrodore,</hi> or other of that traine.</l>
+            <l>What matter is't who ſpake them, they were ſpo<g ref="char:EOLhyphen"/>ken</l>
+            <l>To all. To ſtand in need of riches is a token</l>
+            <l>We are in feare for them: and I ſuppoſe</l>
+            <l>No man enjoyes the thing he feares to loſe:</l>
+            <l>Or that to which his care is how to add.</l>
+            <l>For where much thought of the encreaſe is had</l>
+            <l>Th' injoyment is forgot. His buſineſſe is</l>
+            <l>To make up recknings: and he'll ſeldome miſſe</l>
+            <pb n="55" facs="tcp:150278:28"/>
+            <l>The market: and as oft as he can ſpare</l>
+            <l>Time from thoſe things, he turnes the Calendar,</l>
+            <l>And notes when uſe is to be called for;</l>
+            <l>So from a Lord he turnes ſollicitor.</l>
+         </div>
+         <div n="15" type="epistle">
+            <head>
+               <hi>EPIST.</hi> XV.</head>
+            <l>IN elder times it hath a cuſtome bin,</l>
+            <l>And to my age continu'd, to begin</l>
+            <l>Epiſtles, If thou <hi>bee'ſt in health 'tis well.</hi>
+            </l>
+            <l>And let us likewiſe ſay, <hi>if thou canſt tell</hi>
+            </l>
+            <l>How to <hi>Philoſophiſe 'tis well,</hi> for this</l>
+            <l>Is health indeed, the mind that wants it is</l>
+            <l>But ſicke: the body too though it be ſtrong,</l>
+            <l>Hath onely what to mad men does belong.</l>
+            <l>Seeke therfore this health firſt, then that which will</l>
+            <l>Not coſt thee much, if thou't be healthfull ſtill.</l>
+            <l>The exerciſe that does the armes extend,</l>
+            <l>Dilates the breſt and ſides, I not commend</l>
+            <l>To ſtudious men <hi>(Lucilius):</hi> for although</l>
+            <l>Thou ſhouldſt ſo cram thy panch, that thou ſhouldſt grow</l>
+            <l>T'have brawny limbs, a fat oxe yet at length</l>
+            <l>Will far exceed thee both in weight and ſtrength.</l>
+            <l>Wherefore as much as in thee lies, reſtraine</l>
+            <l>Thy body: to thy minde let looſe the raine:</l>
+            <l>For many inconveniences attend</l>
+            <l>Them, that much paines about the body ſpend.</l>
+            <l>As firſt all exerciſe that's violent</l>
+            <l>Hurts thoſe, who are to contemplation bent.</l>
+            <l>And next, ſtrong meates debilitate the wit,</l>
+            <l>And render it for ſtudy more unfit.</l>
+            <l>Beſides, we muſt conceave of what ſtrange parts</l>
+            <l>They be, who are the maſters of theſe arts:</l>
+            <pb n="56" facs="tcp:150278:29"/>
+            <l>Men wholly converſant in wine and oyle,</l>
+            <l>Who thinke the day well ſpent, if with much toyle</l>
+            <l>They ſweat enough, and what they ſweat out then</l>
+            <l>Next morning faſting they reſtore agen</l>
+            <l>With other liquor: but much drinke and ſweat</l>
+            <l>Will the cardiacall diſeaſe beget.</l>
+            <l>There are ſome exerciſes which are ſhort</l>
+            <l>And eaſie, which the bodies health ſupport,</l>
+            <l>And fixe, in little time, whereof much care</l>
+            <l>Is to be had, of which kind chiefly are</l>
+            <l>Running, and ſwinging of the armes with weight,</l>
+            <l>Capring upright; and ſometimes to leap ſtraight</l>
+            <l>Forward along the ground, and not refuſe</l>
+            <l>Sometimes to ſhake the feet as Fullers uſe.</l>
+            <l>Thoul't any of theſe by practiſe eaſie find:</l>
+            <l>But yet be ſure to looke backe to the mind,</l>
+            <l>And to imploy it day and night, for that</l>
+            <l>Is fed with labour which is moderate:</l>
+            <l>This kind of exerciſe nor heat, nor cold</l>
+            <l>Can hinder, no not though we be grown old.</l>
+            <l>Purſue that good which better grows by age;</l>
+            <l>Nor would I have thee ſtill thy mind engage</l>
+            <l>In ſtudie, and in writing, but t'allow</l>
+            <l>Som reſpit, leſt thou breake what thou wouldſt bow.</l>
+            <l>The motion of a chaire, or coach will jog,</l>
+            <l>And ſtir the body, yet the minde not clog.</l>
+            <l>Or thou mayſt walke abroad, and not forbeare</l>
+            <l>To read the while, to dictate, ſpeake or heare.</l>
+            <l>Nor is't amiſſe ſometimes thy voyce to ſtraine;</l>
+            <l>But from Muſitians notes, and tunes refraine.</l>
+            <l>But if the garb of walking thoud'ſt be taught,</l>
+            <l>Get one of thoſe who are by hunger brought</l>
+            <pb n="57" facs="tcp:150278:29"/>
+            <l>To theſe new artes, he will direct thy pace,</l>
+            <l>And teach thee how to eat with a good grace:</l>
+            <l>And will proceed as far in impudence,</l>
+            <l>As thou wilt ſuffer him with patience.</l>
+            <l>But what? ſhall then thy voyce begin with</l>
+            <l>It is more naturall to let it riſe</l>
+            <l>By ſome degrees: as pleaders at the firſt</l>
+            <l>Softly begin, then into clamours burſt:</l>
+            <l>For none will in the entrance of his ſpeech</l>
+            <l>Implore a pardon, and the Iudge beſeech.</l>
+            <l>But howſoere thy fervour thee perſwade,</l>
+            <l>Thou vices ſometimes ſtrongly muſt invade,</l>
+            <l>And ſometimes mildly, and thereof make choice</l>
+            <l>According to thy ſtrength of ſides, and voyce.</l>
+            <l>But when thy voyce thou higher ſhalt extend,</l>
+            <l>And then bring lower, let it not deſcend</l>
+            <l>At once, but by degrees: and be thou ſure</l>
+            <l>To let it keepe the maſters temprature:</l>
+            <l>And that it be not ſufferd to ingage</l>
+            <l>Into an ignorant and clowniſh rage.</l>
+            <l>For t'is not our intent by doing thus</l>
+            <l>To exerciſe our voyce, but that to us</l>
+            <l>Our voyce ſhould be an exerciſe. But loe</l>
+            <l>I've ſav'd thee no ſmall trouble: I'll beſtow</l>
+            <l>A gratefull gift beſide that benefit,</l>
+            <l>Behold a precept that hath worth in it;</l>
+            <l>
+               <hi>A fooles' life is unpleaſant, and does waſt</hi>
+            </l>
+            <l>
+               <hi>In feare, be'ing wholly on the future caſt.</hi>
+            </l>
+            <l>Thou't aske perhaps, who ſpake theſe words? the ſame</l>
+            <l>Which ſpake before. But what is this we name</l>
+            <l>A fooles life? Is it thinkſt thou that</l>
+            <l>Of <hi>Baba,</hi> and <hi>Ixion</hi> ſo laught at?</l>
+            <pb n="58" facs="tcp:150278:30" rendition="simple:additions"/>
+            <l>No, it is ours: whoſe blind defires do flie</l>
+            <l>Headlong on things which never fatisfie,</l>
+            <l>But often hurt us: whom if any thing</l>
+            <l>Could have ſuffis'd, it had: who do not bring</l>
+            <l>Our thoughts to ponder what a ſweetneſſe lies</l>
+            <l>In ſeeking nothing: and how high we riſe</l>
+            <l>When we b'ing full doe not for more contend,</l>
+            <l>Nor yet on fortune any way depend.</l>
+            <l>Wherefore <hi>(Lucilius)</hi> often call to mind</l>
+            <l>How much th'haſt: how many are behind</l>
+            <l>More than before. And if thou't ſhun a ſtrife</l>
+            <l>Ungratefull to the Gods, and thine own life,</l>
+            <l>Never forget how many th'haſt out-gon.</l>
+            <l>But what need'ſt thou mind others? looke upon</l>
+            <l>Thy ſelfe, whom th'haſt outſtript. Propound an end</l>
+            <l>Which thou mayſt not be able to tranſcend,</l>
+            <l>Although thou wouldſt. Theſe riches which deceive us,</l>
+            <l>Better whe<g ref="char:cmbAbbrStroke">̄</g> ſought, tha<g ref="char:cmbAbbrStroke">̄</g> had, wil one day leave us.</l>
+            <l>If any ſolidneſſe therein were found,</l>
+            <l>They'd fill at laſt the place where they abound:</l>
+            <l>But now the drinkers thirſt they more excite,</l>
+            <l>And alwayes with an outward pomp invite.</l>
+            <l>Why ſhould I beg of fortune to beſtow</l>
+            <l>Upon me that, which ſhe ſets out for ſhow</l>
+            <l>To catch me with, rather than put this taske</l>
+            <l>Upon my ſelfe, not to be brought to aske?</l>
+            <l>But wherefore ſhould I ſo forget the fraile</l>
+            <l>Eſtate of man; that fortune ſhould prevaile</l>
+            <l>To make me aske? I ſhall be ſure to heape</l>
+            <l>Up ſtore of wealth: what thereby ſhall I reape?</l>
+            <l>Labour for labour. Behold time makes haſt,</l>
+            <l>Or this is my laſt day, or near my laſt.</l>
+         </div>
+         <div n="16" type="epistle">
+            <pb n="59" facs="tcp:150278:30"/>
+            <head>
+               <hi>EPIST.</hi> XVI.</head>
+            <l>I Know <hi>(Lucilius)</hi> thou art well aſſurd</l>
+            <l>A bleſſed life can never be procurd,</l>
+            <l>No not in any reaſonable ſort,</l>
+            <l>Unleſſe to wiſdomes precepts we reſort:</l>
+            <l>And alſo that ſuch bleſſedneſſe is ſtable</l>
+            <l>When wiſdome is compleat, and tollerable</l>
+            <l>When it is but begun. Yet thou muſt make</l>
+            <l>This thy aſſurance better roote to take,</l>
+            <l>And gather ſtrength by conſtant meditation.</l>
+            <l>It is a worke of far more commendation,</l>
+            <l>And where in greater difficultie's found,</l>
+            <l>To performe honeſt things, than to propound.</l>
+            <l>We then ſhould never ceaſe, untill we find</l>
+            <l>Our fleeting will, turn'd to a conſtant mind.</l>
+            <l>Wherfore there needs not many words t'advance</l>
+            <l>My thoughts of thee, nor ſo much circumſtance.</l>
+            <l>I find thou haſt much profited, and know</l>
+            <l>The things thou writ'ſt are not ſet out for ſhow,</l>
+            <l>But reall and unfaind. Yet i'll declare</l>
+            <l>My mind: my hopes of thee already are</l>
+            <l>Enough confirmd, not my aſſurance yet.</l>
+            <l>And I in thee would the like thoughts beget.</l>
+            <l>Thou ſhouldſt not truſt thy ſelfe too ſoone: but trie,</l>
+            <l>And often ſearch what crannies in thee lie.</l>
+            <l>But above all, trie whether thou haſt learnd</l>
+            <l>Philoſophie, or the life therein concernd.</l>
+            <l>Philoſophie's no vulgar worke, nor brings</l>
+            <l>Vaine oſtentation; but conſiſts in things,</l>
+            <l>And not in words: nor is't to be imployd</l>
+            <l>'Gainſt idleneſſe, or ſports where with we are cloyd</l>
+            <pb n="60" facs="tcp:150278:31"/>
+            <l>It builds, and forms our mindes, our lives diſpoſes,</l>
+            <l>Governs our actions, and to us diſcloſes</l>
+            <l>What's to be don, what ſhund: it is our guide,</l>
+            <l>And ſets us right when doubts our thoughts divide:</l>
+            <l>No man's ſecure without this. Ev'ry day</l>
+            <l>Innumerable accidents themſelves diſplay,</l>
+            <l>In which ſound reaſon muſt direct our ſen<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>:</l>
+            <l>And that muſt evermore be fetcht from hence.</l>
+            <l>But ſome will ſay what needs Philoſophy,</l>
+            <l>If there be an ore-ruling deſtiny?</l>
+            <l>And how can that avail if God command?</l>
+            <l>Or how, if no man fortune can withſtand?</l>
+            <l>Things certaine are immutable, and I</l>
+            <l>Cannot provide againſt uncertainty.</l>
+            <l>If God diſpoſe my counſels, and decree</l>
+            <l>What I ſhall doe, what then is left to me?</l>
+            <l>Though ſome or all of theſe, <hi>Lucilius,</hi>
+            </l>
+            <l>Be ſo indeed, yet it is fit for us</l>
+            <l>T'mbrace Philoſophy: for whether fate</l>
+            <l>To fixt decrees do us neceſſitate;</l>
+            <l>Or whether God the univerſall guide</l>
+            <l>Doe preordaine what ever ſhall betide:</l>
+            <l>Or whether chance doe croſſe what we intend,</l>
+            <l>Yet ſtill Philoſophy muſt us defend.</l>
+            <l>This will perſwade us willingly t'obey</l>
+            <l>God: but reſiſt with courage fortun's ſway:</l>
+            <l>This teaches to depend on providence,</l>
+            <l>And to beare miſeries with patience.</l>
+            <l>But heere we'll not diſpute, how it may be</l>
+            <l>That any of our actions can be free,</l>
+            <l>If providence ore-rule; or if a chaine</l>
+            <l>Of cauſes bind to what the fates ordaine:</l>
+            <pb n="61" facs="tcp:150278:31"/>
+            <l>Or elſe if new and ſudden accidents</l>
+            <l>Have power to croſſe and fruſtrate our intents,</l>
+            <l>I now returne t'adviſe there not to let</l>
+            <l>Thy mind grow cold, and what it learn'd, ſorget;</l>
+            <l>But to confine it to a taske, that ſo</l>
+            <l>A paſſion may into a habit grow.</l>
+            <l>But all this while, thou, if I know thee right,</l>
+            <l>Expect's ſome gift from what I now indite.</l>
+            <l>Search, and thou't find: nor thinke it ſtrange at all,</l>
+            <l>That ſtill of others goods i'm liberall:</l>
+            <l>Why ſayd I others? what's well, ſayd I, take</l>
+            <l>For mine, as this that <hi>Epicurus</hi> ſpake.</l>
+            <l>
+               <hi>Thou't nere be poore if thou keep'ſt natures law,</hi>
+            </l>
+            <l>
+               <hi>Nor ere be rich if thee opinion awe.</hi>
+            </l>
+            <l>
+               <hi>For nature with a little is content,</hi>
+            </l>
+            <l>
+               <hi>Opinion to immenſitie is bent.</hi>
+            </l>
+            <l>Heape thou to thine owne ſelfe as vaſt a treaſure</l>
+            <l>As ſome poſſeſſe: let fortune beyond meaſure</l>
+            <l>Raiſe thee to wealth: let gold enough be had</l>
+            <l>To load thee with: be thou with purple clad:</l>
+            <l>Let riches, and delights ſo much abound</l>
+            <l>That thou with marbles covereſt the ground.</l>
+            <l>Let ſilver be not for thy uſe alone,</l>
+            <l>But at thy pleaſure to be trod upon.</l>
+            <l>Add ſtatues, pictures, for an ornament,</l>
+            <l>And whatſoere Luxurious artes invent;</l>
+            <l>All theſe will but incite thee to contend</l>
+            <l>For more. Our naturaii deſires have end:</l>
+            <l>Such as from falſe opinion take their gro und</l>
+            <l>Can never ceaſe, for falſhood knows no bound.</l>
+            <l>He at the length comes home that keeps his way:</l>
+            <l>But he that roves will into deſerts ſtray.</l>
+            <pb n="62" facs="tcp:150278:32"/>
+            <l>Then leave all vanity: and if thou'dſt find</l>
+            <l>Whether when thou ſeekſt any thing, thy mind</l>
+            <l>Be led to ſeeke it rather by a juſt,</l>
+            <l>And naturall deſire, than by blind luſt;</l>
+            <l>Conſider if it can ſomewhere abide.</l>
+            <l>Having gon far, if thou ſhalt ſtill provide</l>
+            <l>To go yet farther, know then thou do'ſt fall</l>
+            <l>Upon a thing that is not naturall.</l>
+         </div>
+         <div n="17" type="epistle">
+            <head>
+               <hi>EPIST.</hi> XVII.</head>
+            <l>IF thou be'ſt wiſe all theſe things caſt away,</l>
+            <l>Nay, that thou maiſt be wiſe, with ſpeed aſſay,</l>
+            <l>And with full force to get a perfect mind.</l>
+            <l>If any thing with-hold thee, thou maiſt find</l>
+            <l>How to remove, or cut it from thee quite.</l>
+            <l>But thou wilt ſay domeſticke cares of right</l>
+            <l>REquire my thoughts, which I'll not lay aſide</l>
+            <l>Untill ſufficient meanes I ſhall provide</l>
+            <l>To live at eaſe: leſt poverty become</l>
+            <l>To me a burthen, or my ſelfe to ſome.</l>
+            <l>If thus thou ſayſt, thou doſt not apprehend</l>
+            <l>The force of that, to which thou doſt pretend:</l>
+            <l>But looking on the outſide of that good</l>
+            <l>Wiſedome procures, thou haſt not underſtood</l>
+            <l>The inner parts thereof, whereby to know</l>
+            <l>What proſit from Philoſophie will grow:</l>
+            <l>How that to us the greateſt things commends,</l>
+            <l>And, as we learne from <hi>Cicero</hi> deſcends</l>
+            <l>Even to the leaſt. Believe me if thou't take</l>
+            <l>That for thy guide, it will not let thee make</l>
+            <l>Count-caſting thy delight. But thou would'ſt flie</l>
+            <l>By theſe delays the fear of poverty.</l>
+            <pb n="63" facs="tcp:150278:32"/>
+            <l>Yet what if that ſhould not be feard but ſought,</l>
+            <l>For many men by riches haue been brought</l>
+            <l>To neglect knowledge? poverty is found</l>
+            <l>To be ſecure and free: when trumpets ſound</l>
+            <l>That knows it ſelfe not ſought for: when the crie</l>
+            <l>Of fire is heard, that ſeekes but how to flie,</l>
+            <l>Not what to carry forth. If there be cauſe</l>
+            <l>To goe to ſea, that no diſturbance drawes</l>
+            <l>Within the haven, or about the ſhore;</l>
+            <l>Where one alone is followd wich ſuch ſtore</l>
+            <l>Of ſervants, and attendants, that ther's need</l>
+            <l>Of other countrie's plenty them to feed.</l>
+            <l>Where there are few, and they well governed,</l>
+            <l>If they but ſeek to have their bellies fed,</l>
+            <l>'Tis don with eaſe: for hunger is appeaſd</l>
+            <l>With little, gluttony is never pleaſd.</l>
+            <l>There is no more deſird by poverty,</l>
+            <l>But onely preſſing want to ſatisfie.</l>
+            <l>Why ſhouldſt thou this companion then refuſe,</l>
+            <l>Whoſe manners rich men that are temprate uſe?</l>
+            <l>If thou deſir'ſt to be from trouble free,</l>
+            <l>Or poore, or like a poore man thou muſt be:</l>
+            <l>No uſefull ſtudie can be undertaken</l>
+            <l>Unleſſe our diligence we oft awaken</l>
+            <l>With frugalneſſe, and frugalneſſe we ſee</l>
+            <l>Is nothing elſe, but willing povertie.</l>
+            <l>Hence then with theſe excuſes: I want yet</l>
+            <l>What is ſufficient: if I once can get</l>
+            <l>The Sum that I propound, in the next place</l>
+            <l>I wholly will Philoſophy embrace.</l>
+            <l>But that which is to thee a ſecond thought,</l>
+            <l>And is defer'd, ſhould firſt of all be ſought.</l>
+            <pb n="64" facs="tcp:150278:33"/>
+            <l>I will provide, ſayſt thou, wherewith to live;</l>
+            <l>Thou muſt learne alſo an account to give</l>
+            <l>Of thy proviſion. Although ſomething may</l>
+            <l>Hinder thy living well, nothing can ſtay</l>
+            <l>Thy dying well. There is no reaſon why</l>
+            <l>We ſhould be hindred from Philoſophy</l>
+            <l>By poverty, or more then that, by need:</l>
+            <l>Nay yet, a little further to proceed,</l>
+            <l>We muſt for this to hunger us inure,</l>
+            <l>Which men in beſeig'd Cities doe endure.</l>
+            <l>And what reward, do they obtaine for all</l>
+            <l>Their patience, but onely not to fall</l>
+            <l>Within the victors power? how much more great</l>
+            <l>Is this, that makes our freedome ſo compleat</l>
+            <l>And permanent, that we nor men need feare,</l>
+            <l>Nor gods? and truly we ſhould not forbeare</l>
+            <l>To come to this, although we hungry be.</l>
+            <l>Armies we know have ſufferd penurie,</l>
+            <l>And ſed on rootes of graſſe, and things that ſhame,</l>
+            <l>And modeſtie permit me not to name.</l>
+            <l>And all this for a kingdome, and to make</l>
+            <l>The wonder more, anothers right to take.</l>
+            <l>To ſuffer poverty can any doubt</l>
+            <l>That from his mind he may throw madneſſe out?</l>
+            <l>We ſhould not therefore firſt our meanes inlarge:</l>
+            <l>Philoſophy receaves us without charge.</l>
+            <l>But ſo it is, when all things elſe are gaind,</l>
+            <l>Men are content that wiſedome be obtaind.</l>
+            <l>This they will have to be the laſt proviſion</l>
+            <l>Of life, or to ſpeake plaine, addition.</l>
+            <l>But whether thou haſt any thing, doe thou</l>
+            <l>Forthwith embrace Philoſophy: for how</l>
+            <pb n="65" facs="tcp:150278:33"/>
+            <l>Appeares it elſe, that th' haſt not now too much;</l>
+            <l>Or whether thy condition be ſuch</l>
+            <l>That thou haſt nothing, yet reſolve to make</l>
+            <l>That the firſt thing whereof thou wilt partake.</l>
+            <l>But I ſhall want what neceſſarie is?</l>
+            <l>What neceſſarie is thou canſt not miſſe.</l>
+            <l>For nature with the leaſt things will comply,</l>
+            <l>And a wiſe man on nature will relie.</l>
+            <l>But if extreame neceſſities inſiſt,</l>
+            <l>He can the world relinquiſh when he liſt;</l>
+            <l>And by that meanes no longer need become</l>
+            <l>A burthen to himſelfe, or troubleſome.</l>
+            <l>And if he have a little to ſuſtaine</l>
+            <l>Life, is content: and being not in paine</l>
+            <l>For things beyond neceſſitie, beſtows</l>
+            <l>On backe, and belly what to them he owes.</l>
+            <l>And being ſate, derides the rich man's wayes,</l>
+            <l>And laughing at his courſe of getting, ſayes,</l>
+            <l>Why do'ſt thou ſo defer? why doſt thou wait</l>
+            <l>For uſe of mony put out at a rate?</l>
+            <l>Or expect profit from a growing trade?</l>
+            <l>Or why that bleſt old man do'ſt thou perſwade</l>
+            <l>To write thee down his heire, ſince thou mayſt pitch</l>
+            <l>Upon a nearer way to make thee rich?</l>
+            <l>Wiſedome exhibits wealth: which on all them</l>
+            <l>It does beſtow, who riches doe contemn.</l>
+            <l>But this belongs to others: thou haſt more</l>
+            <l>Than needfull is: looke on the age before,</l>
+            <l>And thou art in exceſſe. All times preſent</l>
+            <l>To evry man what is ſufficient.</l>
+            <l>I might heere end my Letter, but that I</l>
+            <l>Have bred thee ill. The Parthian Kings deny</l>
+            <pb n="66" facs="tcp:150278:34"/>
+            <l>Admittance without preſents, ther's no ſhift</l>
+            <l>But at my fare-well I muſt bring ſome gift.</l>
+            <l>And this to me ſhall <hi>Epicurus</hi> lend,</l>
+            <l>
+               <hi>Many by getting wealth have found no end</hi>
+            </l>
+            <l>
+               <hi>Of miſeries, but onely an exchange.</hi>
+            </l>
+            <l>Nor ſhould this any way to thee ſeeme ſtrange:</l>
+            <l>Since in the mind alone the fault does lie,</l>
+            <l>Not in the thing: that which made poverty</l>
+            <l>A burthen, riches alſo irckſome made.</l>
+            <l>For as a ſickman whether he be layd</l>
+            <l>Upon a bed of wood, or gold, no eaſe</l>
+            <l>Does find, but carry's with him his diſeaſe.</l>
+            <l>So fares it with a mind that ſicke is, whether</l>
+            <l>It be in wealth or poverty, in either</l>
+            <l>It is unſatisfi'd, and its own ill</l>
+            <l>Where ere it be remov'd does carry ſtill.</l>
+         </div>
+         <div n="18" type="epistle">
+            <head>
+               <hi>EPIST.</hi> XVIII.</head>
+            <l>DEcember is a month wherein all ſorts</l>
+            <l>Of people in the City melt in ſports.</l>
+            <l>Where luxurie ſuch priviledge obtaines,</l>
+            <l>And not gets ſo publickely the raines,</l>
+            <l>As if ſome ods there ſhould appeare to all</l>
+            <l>'Tween dayes of worke, and <hi>Saturne's</hi> feſtivall.</l>
+            <l>Whereas there is ſo little difference made,</l>
+            <l>That we may verifie what one hath ſayd;</l>
+            <l>
+               <hi>In former times 'twas evident and cleare</hi>
+            </l>
+            <l>
+               <hi>December was a month, but now a yeare.</hi>
+            </l>
+            <l>Wert thou with me, we would confer together,</l>
+            <l>What courſe therein were to be taken; whether</l>
+            <l>We ſhould not change at all our former uſe,</l>
+            <l>Or not ſeverely ſeeming to refuſe</l>
+            <pb n="67" facs="tcp:150278:34"/>
+            <l>The peoples cuſtome, merrily ſit downe</l>
+            <l>At ſupper with them, and throw off our gown.</l>
+            <l>But though at feſtivalls w'have not refuſ'd</l>
+            <l>To change our cloths, a thing but onely uſd</l>
+            <l>In times of tumuit, and of publicke woe;</l>
+            <l>Yet thou at leaſt if I thee rightly know,</l>
+            <l>Who take upon me to diſcerne, do'ſt neither</l>
+            <l>Deſire that we ſhould become altogether</l>
+            <l>Like the cap-wearing multitude, nor yet</l>
+            <l>Unlike: unleſſe perhaps we ought to get</l>
+            <l>Such powr ore our minds, as not to follow</l>
+            <l>Pleaſures, even then when all in pleaſures wallow:</l>
+            <l>It is a certaine ſigne of a fixt thought,</l>
+            <l>When that nor goes to ill, nor can be brought.</l>
+            <l>This ſhews we are more reſolute and ſtout,</l>
+            <l>To come forth ſober from a drunken rout.</l>
+            <l>But this more temprate, not to be exempted,</l>
+            <l>Nor yet with their ill manners to be tempted.</l>
+            <l>It is permitted to us that we may</l>
+            <l>Doe the ſame things, although another way.</l>
+            <l>For we may keepe a feaſt without exceſſe.</l>
+            <l>I find in me ſo great a willingneſſe</l>
+            <l>To prove the firmeneſſe of thy mind, that I</l>
+            <l>By the adviſe of wiſemen will applie</l>
+            <l>To thee this counſell: Let ſome time be had</l>
+            <l>Wherein-thou faring courſely, and being clad</l>
+            <l>As meanely, mayſt thus ſay: <hi>Behold the thing</hi>
+            </l>
+            <l>
+               <hi>That is ſo terrible,</hi> my mind I'll bring</l>
+            <l>While I am in proſperity t'abide</l>
+            <l>Hardſhip, and will, while fortune ſmiles, provide</l>
+            <l>Againſt her frownes. Soldiers in time of peace</l>
+            <l>Doe exerciſe their arms, and never ceaſe</l>
+            <pb n="68" facs="tcp:150278:35"/>
+            <l>To keep their guards, and to make works, although</l>
+            <l>They apprehend no danger of a foe.</l>
+            <l>They in unneceſſary paines proceed,</l>
+            <l>To be thereby prepard in times of need.</l>
+            <l>That which thou wouldſt not feare when it does come,</l>
+            <l>Practiſe before. This courſe is uſ'd by ſome,</l>
+            <l>Who ev'ry month doe practiſe povertie,</l>
+            <l>And bring themſelves even to neceſſity:</l>
+            <l>That they who dayly are therein concernd,</l>
+            <l>May never feare what they have often learn'd.</l>
+            <l>I would not have thee thinke that I intend</l>
+            <l>By this my admonition, to commend</l>
+            <l>To thee a cuſtome practiſ'd now a dayes,</l>
+            <l>To ſup alone, and in a cottage, wayes</l>
+            <l>That luxurie deviſes, to avoid</l>
+            <l>The ſuperfluitie wherewith i'ts cloyd.</l>
+            <l>But I would have thee lodge, be clad, and feed</l>
+            <l>As courſely, as thou truely wert in need.</l>
+            <l>Three or foure dayes together thus employd,</l>
+            <l>And ſometimes more, the thing will be enjoyd</l>
+            <l>By thee at length as an experiment,</l>
+            <l>Which was before but a meere complement.</l>
+            <l>Then will thy joy <hi>(Lucilius)</hi> be great,</l>
+            <l>When fed but with two farthings-worth of meat,</l>
+            <l>Thou't find no need of fortun to ſuffice thee,</l>
+            <l>Things needfull ſhe though angrie not denies thee.</l>
+            <l>Nor is there cauſe for thee to thinke therefore</l>
+            <l>That thou do'ſt much, for thou ſhalt do no more,</l>
+            <l>Than many thouſand ſlaves and poore men doe,</l>
+            <l>Save onely that thou art not forc't thereto.</l>
+            <l>Nor wilt thou find more difficulty when</l>
+            <l>'Tis alwayes done, than when but now and then.</l>
+            <pb n="69" facs="tcp:150278:35"/>
+            <l>Let's exerciſe though but againſt a ſtake:</l>
+            <l>And that heereafter Fortune may not take</l>
+            <l>Us unprovided, let our conſtant care</l>
+            <l>Bee, to make povertie familiar:</l>
+            <l>We more ſecurely riches ſhall poſſeſſe,</l>
+            <l>When poverty we know brings no diſtreſſe:</l>
+            <l>The great voluptuous maſter <hi>Epicure</hi>
+            </l>
+            <l>Had certaine times, when hunger he would cure</l>
+            <l>Diſpitefully, to ſee if his full pleaſure</l>
+            <l>Did yet want any thing, and in what meaſure.</l>
+            <l>And whether it were worthy to be ſought</l>
+            <l>With carefulneſſe, and with great labour bought.</l>
+            <l>For ſo he ſaies in certaine Letters ſent</l>
+            <l>To <hi>Poliaenus,</hi> when the government</l>
+            <l>Was in <hi>Charines:</hi> where he does much boaſt</l>
+            <l>His dinner did not a full farthing coſt:</l>
+            <l>But <hi>Metrodor</hi>'s a whole one, who had not</l>
+            <l>So far in that proficiency yet got.</l>
+            <l>Then wherefore ſhould this diet not ſuffiſe</l>
+            <l>Thy appetite? when pleaſure therein lies:</l>
+            <l>Yea pleaſure that will conſtantly abide,</l>
+            <l>And will not often need to be ſuppli'd</l>
+            <l>For although water and courſe batter fry'd,</l>
+            <l>Or cruſts of barley-bread be things deny'd</l>
+            <l>To be delightfull, yet it is the height</l>
+            <l>Of pleaſure, that we can therein delight:</l>
+            <l>And bring our ſelves to that which fortune can</l>
+            <l>Though wicked, not deny to any man.</l>
+            <l>The food allowd to priſners is more large,</l>
+            <l>And men condemnd are not by them whoſe charge</l>
+            <l>It is to execute, ſo ſtricktly fed.</l>
+            <l>Then what great courage in that mind is bred,</l>
+            <pb n="70" facs="tcp:150278:36"/>
+            <l>Which of its one accord to that deſcends,</l>
+            <l>Which they feele not whom th'utmoſt woe attends?</l>
+            <l>This is t'anticipate the ſtroakes of fortune.</l>
+            <l>Wherefore <hi>(Lucilius)</hi> let me tree importune</l>
+            <l>Now to begin theſe men to imitate:</l>
+            <l>And to deſigne ſome dayes thine owne eſtate</l>
+            <l>So to neglect, that thou maiſt ſuff<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r want:</l>
+            <l>With povertie learn to be converſant.</l>
+            <l>
+               <hi>My friend, take courage riches to despiſe,</hi>
+            </l>
+            <l>
+               <hi>And worthily to God-like honour riſe.</hi>
+            </l>
+            <l>For no man can reſemble God, but he</l>
+            <l>Who contemnes riches. I forbid not thee</l>
+            <l>To poſſeſſe wealth: but I would have thee beare</l>
+            <l>It ſo, as to poſſeſſe it without feare.</l>
+            <l>Which thou wilt doe, if thou canſt be aſſurd</l>
+            <l>That happineſſe without wealth is procurd:</l>
+            <l>If thou on riches ſhalt ſo caſt thine eye,</l>
+            <l>As if they were to depart preſently.</l>
+            <l>But I muſt now to a concluſion grow;</l>
+            <l>But firſt thou't bid me pay thee what I owe.</l>
+            <l>I'll thee aſſigne to <hi>Epicurus,</hi> he</l>
+            <l>Shall reckon, and thy paymaſter ſhall be.</l>
+            <l>
+               <hi>From extreame anger, madneſſe does enſue.</hi>
+            </l>
+            <l>Thou needs muſt underſtand this to be true,</l>
+            <l>Since thou findſt thy condition to be ſo,</l>
+            <l>That thou haſt both a ſervant and a foe.</l>
+            <l>This paſſion workes on all men, and does move</l>
+            <l>Not only from malignity, but love:</l>
+            <l>Not onely from things ſerious, but from ſmall,</l>
+            <l>And things of ſport. Nor is't materiall</l>
+            <pb n="71" facs="tcp:150278:36"/>
+            <l>From how great cauſe it comes, but in what mind</l>
+            <l>It falls. For as no difference we find</l>
+            <l>In what proportion fire is thrown, but where:</l>
+            <l>For we may caſt the greateſt without feare</l>
+            <l>On wet or ſollid places, where as drie</l>
+            <l>And combuſtible matter ſuddenly</l>
+            <l>Will feede a ſparke into a ruine: So,</l>
+            <l>My deare <hi>Lucilius,</hi> anger that does goe</l>
+            <l>On in a violence, will ſoone engage</l>
+            <l>It ſelfe, into a mad, and franticke rage.</l>
+            <l>We then as well for health's ſake this muſt ſhun,</l>
+            <l>As not into intemperance to run.</l>
+         </div>
+         <div n="19" type="epistle">
+            <head>
+               <hi>EPIST.</hi> XIX.</head>
+            <l>AS often as I read thy letters, I</l>
+            <l>Rejoyce: &amp; am with good hope fild thereby.</l>
+            <l>For they in thy behalfe not onely make</l>
+            <l>A promiſe to me, but doe undertake.</l>
+            <l>On then, I thee entreat, finiſh thy taske.</l>
+            <l>For there is nothing I can better aske</l>
+            <l>Of any friend, then for him make requeſt;</l>
+            <l>Steale if thou canſt from cares, if not. th' haſt beſt </l>
+            <l>Snatch thy ſelfe off; vve time enough have ſpent</l>
+            <l>In vanities: Let's be in age content</l>
+            <l>To pack up our commodities. Then how</l>
+            <l>Are we to blame? w'have livd at ſea, let's now</l>
+            <l>Die in the port. Yet thou ſhouldſt not protenſe</l>
+            <l>To get a publicke name by thy receſſe:</l>
+            <l>Which thou muſt neither glory in, nor hide.</l>
+            <l>For I'll not ſeeke to draw thee ſo aſide,</l>
+            <l>As our of hatefull ſulſineſſe to keepe</l>
+            <l>No company, but in ſome hole to creepe.</l>
+            <pb n="72" facs="tcp:150278:37"/>
+            <l>Let thy retirement then appeare to us,</l>
+            <l>But let it not become notorious.</l>
+            <l>Such as have yet no courſe of life begun,</l>
+            <l>May live obſcure, and all acquaintance ſhun.</l>
+            <l>But thou canſt not: the vigour of thy wit,</l>
+            <l>And learned eloquence adorning it,</l>
+            <l>Thy noble correſpondencies have ſhown</l>
+            <l>Thee to the open world: th' art ſo well known,</l>
+            <l>That though thou ſhouldſt reſolve to lie conceald,</l>
+            <l>Thy worth by former things will be reveald.</l>
+            <l>Thou canſt not live in darkneſſe, wonted light</l>
+            <l>Will find thee out where ere thou takſt thy flight.</l>
+            <l>Without diſtate of any, without blame</l>
+            <l>From thine owne ſelfe, thou quietneſs maiſt claime.</l>
+            <l>For what ſhalt thou forſake that thou canſt ſay</l>
+            <l>Is with ill will forſaken? Clients? they</l>
+            <l>Doe not ſeek thee, but ſomething from thee. Friends?</l>
+            <l>Friendſhip was value'd once: it now contends</l>
+            <l>For prey. Will th'old-man whom thou doſt forſake</l>
+            <l>Alter his will? the Client him betake</l>
+            <l>T' an other gate? no great thing can be bought</l>
+            <l>At a cheape price. Take this into thy thought,</l>
+            <l>Whether thou find'ſt they have relinquiſh'd thee,</l>
+            <l>Or ſome of thoſe things which thy evills be.</l>
+            <l>I could have wiſh'd thou hadſt remaind within</l>
+            <l>The bounds of thine own birth, and hadſt not bin</l>
+            <l>Raiſd to that height! a quick proſperity</l>
+            <l>Far from a happy life hath placed thee:</l>
+            <l>Commands, and governments, and what depends</l>
+            <l>Thereon: and yet more honour thee attends,</l>
+            <l>Place after place; what wilt thou have at laſt?</l>
+            <l>On what deſigne will thy vaſt hopes be caſt,</l>
+            <pb n="73" facs="tcp:150278:37"/>
+            <l>Ere thou firſt ſtill? thy full deſire thou't gaine?</l>
+            <l>That cannot be, for as there is a chaine</l>
+            <l>Of cauſes whereto fate, they ſay, is knit,</l>
+            <l>So is there of deſire, and like to it:</l>
+            <l>One takes beginning from an others end.</l>
+            <l>To ſuch a kind of life thou do'ſt deſcend,</l>
+            <l>As of it ſelfe can never come to checke</l>
+            <l>Thy grievances. Wherefore withdraw thy necke</l>
+            <l>Worne with the yoake, which to cut off is leſſe</l>
+            <l>Offenſive than to let it ſtill oppreſſe.</l>
+            <l>If thou t'a private life ſhalt have recourſe</l>
+            <l>All things will be much leſſe, yet will have force</l>
+            <l>To fill abundantly: whereas the moſt</l>
+            <l>Now fetcht with charge from many a diſtant coaſt</l>
+            <l>Will not ſuffice. To which haſt thou moſt mind,</l>
+            <l>In want t' abound, or be in plenty pind?</l>
+            <l>Felicity both greedy is, and muſt</l>
+            <l>Be ſtill expoſd to others greedy luſt.</l>
+            <l>As long as thou ſhalt unſuffyſ'd abide,</l>
+            <l>Others with thee will not be ſatisfy'd.</l>
+            <l>But how (ſayſt thou) ſhall I get off? lay hold</l>
+            <l>On any meanes. Think with thy ſelfe how bold,</l>
+            <l>And raſh for money thou haſt often bin:</l>
+            <l>How diligent that thou might'ſt honour win.</l>
+            <l>Somthing muſt be attempted then for reſt:</l>
+            <l>Or elſe thy dayly paines to manifeſt</l>
+            <l>Thy care of this mans buſineſſe, now and then</l>
+            <l>To performe civill offices to men,</l>
+            <l>Will force thee to grow old in toyle, and dwell</l>
+            <l>In miſeries, to which thou canſt not tell</l>
+            <l>Which way with modeſty an end to give.</l>
+            <l>For what avails it that thy ſelfe wouldſt live</l>
+            <pb n="74" facs="tcp:150278:38"/>
+            <l>In peace? thy fortun will not: which even yet</l>
+            <l>If ſufferd to grow greater, will beget</l>
+            <l>As much new feare as profit. I will now</l>
+            <l>
+               <hi>Mecaenas</hi> quote, who did the truth avow</l>
+            <l>Even from the racke where favour him had layd:</l>
+            <l>
+               <hi>For height it ſelfe is with great height diſmayd.</hi>
+            </l>
+            <l>If thou inquirſt where this is to be read,</l>
+            <l>'Tis in his booke which is intituled</l>
+            <l>
+               <hi>Prometheus.</hi> By which ſaying this is meant,</l>
+            <l>That greatneſſe hath the greateſt diſcontent.</l>
+            <l>How then can any power be ſo much worth,</l>
+            <l>That thou ſuch words of ſurfet ſhouldſt bring forth?</l>
+            <l>He was a man of wit, and like from thence</l>
+            <l>To have produc'd to Roman eloquence</l>
+            <l>A great example, had not happineſſe</l>
+            <l>By weakning, nay by guelding made him leſſe.</l>
+            <l>Lo this will be the end, if thou before</l>
+            <l>Shalt not take in thy ſayles, and make to ſhore,</l>
+            <l>As he too late intended. I could let</l>
+            <l>This ſentence of <hi>Mecaenas</hi> paſſe for debt:</l>
+            <l>But thou, if I miſtake thee not, wilt hold</l>
+            <l>It fitter to be payd in coyn that's old.</l>
+            <l>And therfore <hi>Epicurus</hi> heer ſhall lend</l>
+            <l>The money, which for payment I intend.</l>
+            <l>
+               <hi>We ought,</hi> ſays hee, <hi>with ſeriouſnes to think</hi>
+            </l>
+            <l>
+               <hi>Rather with whom, than what we eat and drink.</hi>
+            </l>
+            <l>
+               <hi>For they who at fleſh meales a friend refuſe,</hi>
+            </l>
+            <l>
+               <hi>Lead but the life that Wolves and Lions uſe.</hi>
+            </l>
+            <l>This will not thy condition be, unleſſe</l>
+            <l>Thou doſt retire: thou't elſe, I muſt confeſſe,</l>
+            <l>Have gueſts, but thoſe thy <hi>Nomenclator</hi> ſhall</l>
+            <l>In order from a heard of clients call.</l>
+            <pb n="75" facs="tcp:150278:38"/>
+            <l>Who hires a ſervant at the door, or makes</l>
+            <l>Friendſhip with any at a feaſt, miſtakes.</l>
+            <l>A publick perſon, one that is beſet</l>
+            <l>With his own happineſs, hath never met</l>
+            <l>With greater ill, than when he thinks h'hath got</l>
+            <l>Thoſe men his friends t'whom he himſelfe is not:</l>
+            <l>Or elſe beleeves that his large courteſies</l>
+            <l>Beſtowd on men will be ſufficient ties:</l>
+            <l>Since ſome the more th'are ti'd, the more they hate:</l>
+            <l>A ſmall debt will a debter alienate,</l>
+            <l>A great one bring him to turn fo. What then?</l>
+            <l>Are benefits no pledges among men?</l>
+            <l>Yes, if we chuſe receivers; if no waſt</l>
+            <l>Be made, but that they be with judgement plac't.</l>
+            <l>Then ſince to be thy ſelfe thou do'ſt begin,</l>
+            <l>Let this ſage counſell on thy reaſon win,</l>
+            <l>To think it much concernible to know,</l>
+            <l>Not what, but upon whom thou doſt beſtow.</l>
+         </div>
+         <div n="20" type="epistle">
+            <head>
+               <hi>EPIST.</hi> XX.</head>
+            <l>IF thou be'ſt well, and thinkſt that thou art grown</l>
+            <l>So worthy, as at length to be thine own,</l>
+            <l>I'm glad. For 'twill my glory be, if I</l>
+            <l>Free thee from ſtorms thou hadſt no hope to fly.</l>
+            <l>But this I crave, <hi>Lucilius,</hi> and intreat,</l>
+            <l>That thou wouldſt give Philoſophy a ſeat</l>
+            <l>Within thy breaſt, and let ſome proof bee ſhown</l>
+            <l>Of what th'haſt gaynd, not by bare words alone,</l>
+            <l>And writing, but by conſtancy of mind,</l>
+            <l>And by thy luſts abatement: Let words find</l>
+            <l>Credit by actions. They who doe declame,</l>
+            <l>And ſeek by eloquence to get a name,</l>
+            <pb n="76" facs="tcp:150278:39"/>
+            <l>Have their deſigns; and they who catch the ears</l>
+            <l>Of idle youth with vain diſputes, have theirs.</l>
+            <l>Philoſophy inſtructs to do, and not to ſay:</l>
+            <l>And requires this of all, her rules t'obay:</l>
+            <l>That our whole life ſhould with our words agree,</l>
+            <l>And not by different actions changed bee.</l>
+            <l>Wiſdomes chief work, and office hereto tend,</l>
+            <l>That words and deeds drive only at one end.</l>
+            <l>But who will this perform? Few, yet ſome will.</l>
+            <l>'Tis difficult: a wiſe man muſt not ſtill.</l>
+            <l>Goe the ſame pace, but ever the ſame way.</l>
+            <l>Upon this obſervation therfore ſtay:</l>
+            <l>Does thy apparell and thy houſe diſſent?</l>
+            <l>Art thou to thine own ſelf munificent,</l>
+            <l>But ſordid to thy ſervants? Do'ſt thou feed</l>
+            <l>With frugalneſs, in building yet exceed?</l>
+            <l>Lay hold upon one certain way to live,</l>
+            <l>And therby to thy ſelfe directions give.</l>
+            <l>Some bear it low at home, abroad live high.</l>
+            <l>There is a fault in this diverſity,</l>
+            <l>And ſhew's the mind is weak, and cannot guide</l>
+            <l>It ſelfe, but ſuffers it to ſtart aſide.</l>
+            <l>And I will now declare to thee whence ſprings</l>
+            <l>This levity, this diffrence both of things,</l>
+            <l>And counſels. No man to himſelf propounds</l>
+            <l>What he would have, or goes upon firm grounds;</l>
+            <l>Or if he doe, he will not perſevere,</l>
+            <l>But ſuddainly another courſe will ſtere.</l>
+            <l>Nor does he only change, but back ward look,</l>
+            <l>Reſuming what with hatred he forſook.</l>
+            <l>And therfore that I may the courſe decline,</l>
+            <l>Which th'Ancients uſed wiſdome to define,</l>
+            <pb n="77" facs="tcp:150278:39"/>
+            <l>And briefly comprehend our lifes whoſe frame;</l>
+            <l>Wiſedome what is't? To will and nill the ſame.</l>
+            <l>Yea though we adde not this diſtinction,</l>
+            <l>That it be alwayes right we goe upon.</l>
+            <l>For there is nothing that can alwayes pleaſe</l>
+            <l>Unleſſe't be right. Moſt men have this diſeaſe,</l>
+            <l>They know not but at th'inſtant while their will</l>
+            <l>Is ſtrongly bent, what will their mind fullfil.</l>
+            <l>Nay very few doe fully know what they</l>
+            <l>Would, or would not. Mens judgments always ſtray,</l>
+            <l>And turn to th' contrary. The greater ſort</l>
+            <l>Doe for the moſt part make their life a ſport.</l>
+            <l>Therefore where thou begin'ſt preſſe on: perchance</l>
+            <l>Thou either to the higheſt ſhalt advance,</l>
+            <l>Or know alone ther's not a higheſt yet.</l>
+            <l>But how thoul't ſay, ſhall all my followers get</l>
+            <l>A livelihood? if thou ſhalt not proceed</l>
+            <l>To feed that troope, it then it ſelfe will feed:</l>
+            <l>Or what thy bounty would not let thee know,</l>
+            <l>Thou ſhalt be ſure thy poverty will ſhow.</l>
+            <l>This will diſcover true and faithfull friends:</l>
+            <l>Whoſoever ſhall depart had other ends</l>
+            <l>Than onely thee to ſerve; for this alone</l>
+            <l>Should poverty be like'd, it makes it known</l>
+            <l>Of whom we are belov'd. When ſhalt thou ſee</l>
+            <l>That day, wherein thy honour will not be</l>
+            <l>Diſſembled with? let then thy thoughts retire</l>
+            <l>All hither, thy whole care, and thy deſier.</l>
+            <l>All other wiſhes to the Gods releaſe,</l>
+            <l>That with thy ſelfe thou mayſt remaine in peace:</l>
+            <l>And with the fruits thence growing be content:</l>
+            <l>For what felicity can repreſent</l>
+            <pb n="78" facs="tcp:150278:40"/>
+            <l>God more? reduce thy ſelfe to things though ſmall,</l>
+            <l>Yet ſuch as thou from them canſt never fall.</l>
+            <l>And that this may be don with willingneſſe,</l>
+            <l>The tax that on this Letter I aſſeſſe,</l>
+            <l>Shall furder it, which I from <hi>Epicure</hi>
+            </l>
+            <l>Will borrow, though thy envy I endure.</l>
+            <l>
+               <hi>Thy words, believe it, will have more renown,</hi>
+            </l>
+            <l>
+               <hi>When utterd from a homely couch and gown.</hi>
+            </l>
+            <l>
+               <hi>For they will not be spoken then alone,</hi>
+            </l>
+            <l>
+               <hi>But be for truth by demonſtration known.</hi>
+            </l>
+            <l>And how indeed can I thinke otherwiſe</l>
+            <l>Of our <hi>Demetrius</hi> ſayings, when he lies</l>
+            <l>Naked, and little better then in ſtraw?</l>
+            <l>We then from him not onely precepts draw</l>
+            <l>Of truth, but teſtimony. What? therefore</l>
+            <l>May not a man contemne wealth having ſtore?</l>
+            <l>Why not? that man enjoyes a noble mind,</l>
+            <l>Who though he takes the wealth that he does find</l>
+            <l>Is heapt upon him, yet does often ſit</l>
+            <l>To recollect himſelfe, and laugh at it:</l>
+            <l>And rather heares he's rich than feeles. 'Tis much</l>
+            <l>In riches company to have no touch</l>
+            <l>Of the infection. He's more great that's poore</l>
+            <l>In midſt of wealth, but he that wants is more</l>
+            <l>Secure. But thou wilt ſay, I cannot tell</l>
+            <l>How this would bear't, if into want he fell;</l>
+            <l>Nor doe I know ſays <hi>Epicure</hi> how hee</l>
+            <l>That's poore would riches beare, if they ſhould be</l>
+            <l>Upon him caſt. Therefore we muſt in either</l>
+            <l>Reſpect the mind, and muſt conſider whether</l>
+            <l>This can indulgent be to povertie,</l>
+            <l>Or that to wealth uſe no indulgencie.</l>
+            <pb n="79" facs="tcp:150278:40"/>
+            <l>For otherwiſe a homely bed and gown</l>
+            <l>Are but ſlight arguments, unleſs't be known</l>
+            <l>Whether he of his own accord does chuſe them,</l>
+            <l>Or through neceſſity be forc'd to uſe them.</l>
+            <l>But the minds greatneſſe then is manifeſt,</l>
+            <l>When we make haſt to theſe things as the beſt,</l>
+            <l>And thinke them eaſy too: for ſure they are</l>
+            <l>Eaſy: and if, <hi>Lucilius,</hi> thoul't prepare</l>
+            <l>Them with premeditated thoughts to greet,</l>
+            <l>Believe it thou wilt alſo find them ſweet:</l>
+            <l>For therein that eſpecially does lie,</l>
+            <l>Without which nothing's ſweet, ſecurity.</l>
+            <l>Wherefore I judge it neceſſary now,</l>
+            <l>And great men, as I ſay, have don't, t'allow</l>
+            <l>Some certaine dayes, our plentifull eſtate</l>
+            <l>To lay as't were aſide, and imitate</l>
+            <l>True, by imaginary poverty.</l>
+            <l>And this ſo much the rather we ſhould trie,</l>
+            <l>Becauſe we drenched are in dayly pleaſure,</l>
+            <l>And all attempts as difficult doe meaſure.</l>
+            <l>We muſt be rouſd from ſleepe with a ſharpe touch,</l>
+            <l>And ſhewd that nature ſtands us not in much:</l>
+            <l>For no man is borne rich, whoſoere is ſent</l>
+            <l>Into the world is bid to be content</l>
+            <l>With milke and clouts: from theſe beginnings we</l>
+            <l>With Kingdomes hardly can ſufficed be.</l>
+            <trailer>The order is intermitted in the two following Epiſtles.</trailer>
+         </div>
+         <div n="21" type="epistle">
+            <pb n="80" facs="tcp:150278:41"/>
+            <head>
+               <hi>EPIST.</hi> XXVI.</head>
+            <l>I Told thee lately old-age did appeare</l>
+            <l>To be before me: now, I rather feare,</l>
+            <l>Tis left behind me. Therefore ſome new terme</l>
+            <l>Muſt fit theſe yeares, this body ſo infirme.</l>
+            <l>Becauſe indeed old age is chiefly meant</l>
+            <l>Of age that's weary, not of age that's ſpent.</l>
+            <l>Put me among decrepit men, and ſuch</l>
+            <l>As ready are the brinke of life to touch.</l>
+            <l>Yet I rejoyce with thee that I do find</l>
+            <l>Times injury in body, not in mind.</l>
+            <l>For vices onely, and what ſerv'd t'uphold</l>
+            <l>And miniſter to vices, are grown old.</l>
+            <l>My mind is lively and is joyfull too</l>
+            <l>That with the body't has not much to doe.</l>
+            <l>A great part of the burthen that oppreſt</l>
+            <l>The ſoul, is off. She ſhips, and does conteſt</l>
+            <l>With me 'bout age. She ſays it is her youth.</l>
+            <l>And we may well believe it to be truth:</l>
+            <l>Shee then improves. I joy to thinke what I</l>
+            <l>Owe in this time of reſt and modeſty</l>
+            <l>To wiſdome, what to age: and ſtricktly ſearch</l>
+            <l>What things I cannot, what I would not reach.</l>
+            <l>And whether I can any thing effect,</l>
+            <l>Which I would rather utterly reject.</l>
+            <l>For if I cannot doe a thing that's bad,</l>
+            <l>Then that I cannot doe it, I am glad.</l>
+            <l>What dammage therefore can a man pretend,</l>
+            <l>When he finds that which ought to end, to end?</l>
+            <l>It is the greateſt damage thou wiltſay,</l>
+            <l>To waſt, to pine, or rather melt away.</l>
+            <pb n="81" facs="tcp:150278:41"/>
+            <l>For we are not with ſudden violence</l>
+            <l>Layd proſtrate, but are gently carry'd hence.</l>
+            <l>Each day draws ſomthing from our ſtrength. What death</l>
+            <l>Can then be better than to puffe out breath</l>
+            <l>When nature's ſpent? not that ther's any ill</l>
+            <l>In wounds, or other accidents which kill.</l>
+            <l>But becauſe this is a more eaſie way</l>
+            <l>To be with-drawn after a ſoft decay.</l>
+            <l>For my part, as if tryall were at hand,</l>
+            <l>And that day, to whoſe ſentence I muſt ſtand</l>
+            <l>For all my times expence, I'm thus prepard</l>
+            <l>To ſay: whatſ'ever I have yet declard</l>
+            <l>By deeds or words is nothing: thoſe I find</l>
+            <l>To be deceitfull pledges of my mind:</l>
+            <l>And were wrapt up in many an outward ſhow;</l>
+            <l>I muſt truſt death if I the truth would know.</l>
+            <l>I do not therefore fearefully expect</l>
+            <l>That day, wherein I plainly ſhall detect,</l>
+            <l>Whether when arts and fallaces depart,</l>
+            <l>I ſpeake great things, or have them in my heart.</l>
+            <l>Whether I wore a vizard to diſguiſe</l>
+            <l>When I with boldneſſe fortun did deſpiſe.</l>
+            <l>Remove men's eſtimation which is ſtill</l>
+            <l>Uncertaine, and miſtakes both good and ill.</l>
+            <l>Remove thy ſtudies, thy whole life's chiefe care,</l>
+            <l>And death of thee true judgement will declare.</l>
+            <l>This I would ſay: diſputes and learnd diſcourſe,</l>
+            <l>And all that obſervation can enforce</l>
+            <l>From precepts of wiſe men, with readineſſe</l>
+            <l>Of language, cannot the minds ſtrength expreſſe.</l>
+            <l>For many very timerous, and weake</l>
+            <l>In reſolution, often boldly ſpeake.</l>
+            <pb n="82" facs="tcp:150278:42"/>
+            <l>It plainly will appeare what thou haſt don</l>
+            <l>When thy toule is departing. I'll not ſhun</l>
+            <l>The judgement: but will cheerfully aſſent</l>
+            <l>To the condition. This to me is meant.</l>
+            <l>Yet thou muſt alſo thinke that I impart</l>
+            <l>My mind to thee. Tis true thou yonger art?</l>
+            <l>What's that? Yeares are not numberd. Tis a doubt</l>
+            <l>In what place death will come to find thee out.</l>
+            <l>And therefore be thou ready to embrace</l>
+            <l>And meet him willingly in any place.</l>
+            <l>But I would end this Letter, and my hand</l>
+            <l>Is neare the cloſe. Yet rites, I underſtand,</l>
+            <l>Muſt be performd, and portage muſt be payd.</l>
+            <l>I need not tell on whom the charge is layd.</l>
+            <l>Thou knowſt whoſe cheſt I uſe. Doe thou but ſtay</l>
+            <l>A while, and I my ſelfe theſe debts will pay.</l>
+            <l>In the meane time disburſement I'll procure</l>
+            <l>Of this intended ſum from <hi>Epicure,</hi>
+            </l>
+            <l>Who thus hath ſaid. <hi>Think whether 't be more fit</hi>
+            </l>
+            <l>
+               <hi>That death ſhould come to us, or we to it.</hi>
+            </l>
+            <l>The meaning of theſe words does open lie.</l>
+            <l>It is a noble worke to learne to die.</l>
+            <l>Tis needleſſe, thou perhaps wilt ſay, to learne</l>
+            <l>What we can uſe but once? we may diſcerne</l>
+            <l>The reaſon of the needfulneſſe from thence.</l>
+            <l>For when we cannot have experience</l>
+            <l>That we have learn'd: we are oblig'd therby</l>
+            <l>To practiſe ſuch a thing continually.</l>
+            <l>Contemplate death, He bids us, who ſays ſo,</l>
+            <l>Contemplate freedome. Who to die does know,</l>
+            <l>Knows not to ſerve: he ore all power prevailes,</l>
+            <l>At leaſt is out of it. What then are Jailes</l>
+            <pb n="83" facs="tcp:150278:42"/>
+            <l>To him; or hideous dungeons which do more</l>
+            <l>Afflict? he alwayes findes an open dore.</l>
+            <l>There is one chaine that binds us faſt. The love</l>
+            <l>Of life: which though we ſhould not quite remove,</l>
+            <l>Yet we ſhould looſen ſo, that, when ther's cauſe,</l>
+            <l>Nothing ſhould hinder us, or make us pauſe</l>
+            <l>With courage, and alacrity to run</l>
+            <l>And do that quickly which muſt once be don.</l>
+         </div>
+         <div n="41" type="epistle">
+            <head>
+               <hi>EPIST.</hi> XLI.</head>
+            <l>THou ſeekſt a ſafe and profitable thing,</l>
+            <l>If thou endeavour'ſt, as thou writ'ſt, to bring</l>
+            <l>Thy mind to become good. It is but vaine</l>
+            <l>To wiſh, what from thy ſelfe thou maiſt obtaine.</l>
+            <l>We need not lift our hands to Heaven, nor crave</l>
+            <l>The Sexton's leave that we acceſſe may have</l>
+            <l>To th'eares of th'image, as if then we were</l>
+            <l>More eas'ly heard. For God to us is neare:</l>
+            <l>Is with us, nay within us. This I ſay,</l>
+            <l>There is a ſacred ſpirit that does ſtay</l>
+            <l>And reſt in us: and is our guardian too,</l>
+            <l>Obſerving all the good and ill we doe:</l>
+            <l>And us, as we uſe it, it alwayes uſes.</l>
+            <l>No man is good till God the good infuſes.</l>
+            <l>Who can without him above fortune riſe?</l>
+            <l>In great deſignes with him we muſt adviſe.</l>
+            <l>In all good men (although we cannot tell,</l>
+            <l>What God) a God undoubtedly does dwell.</l>
+            <l>If thou to ſom thick wood ſhould'ſt come by chance,</l>
+            <l>Whoſe ancient trees their lofty heads advance</l>
+            <l>'Bove comon height: whoſe arms are ſpred between</l>
+            <l>Each other ſo, no ſun-ſhine can be ſeen.</l>
+            <pb n="84" facs="tcp:150278:43"/>
+            <l>The trees ſo tall: the place ſo ſtill: the ſhade</l>
+            <l>So ſtrange, that wonder does thy thoughts invade:</l>
+            <l>And this in midſt of a large champion ſet,</l>
+            <l>Will inſtantly religious thoughts beget.</l>
+            <l>And if we find a cave in rocks much worne,</l>
+            <l>By which a hanging mountaine is upborne:</l>
+            <l>Not made by hands, but by meere nature brought</l>
+            <l>To ſuch a hollowneſſe: it ſtrikes a thought</l>
+            <l>Of ſome Divinity to be implord.</l>
+            <l>The heads of mighty rivers are ador'd:</l>
+            <l>The deep eruptions of vaſt floods do claime</l>
+            <l>Their Altars, and we conſecrate a name</l>
+            <l>To ſourſes of warme waters, and ſome lakes</l>
+            <l>A ſiradineſſe, or deepneſſe ſacred makes.</l>
+            <l>When we behold a man not ſcar'd with danger,</l>
+            <l>Untoucht with luſts, to vaine delights a ſtranger</l>
+            <l>Happy in adverſe fortun, quiet, when</l>
+            <l>Tempeſtuous ſtormes rage moſt: tranſcending men,</l>
+            <l>And equalling the gods: will not our ſence</l>
+            <l>Tell us we ought this man to reverence?</l>
+            <l>Will we not ſay this doubtleſſe is ſome Being</l>
+            <l>Greater and higher far, than is agreeing</l>
+            <l>To reaſon, to believe that it can be</l>
+            <l>Like to the little body which we ſee?</l>
+            <l>Some heavenly vertue thither ſure deſcends.</l>
+            <l>A mind that's fixt, and for true worth contends:</l>
+            <l>That ſlights, as quite beneath it all things heere,</l>
+            <l>And laughs at what we either wiſh or feare,</l>
+            <l>Muſt needs b'inſpird: a thing that ſo ore-tops</l>
+            <l>The reſt, ſubſiſts not but by heavenly props.</l>
+            <l>And therefore the chiefe part of ſuch a mind</l>
+            <l>Deſcends not hither, but remaines behind.</l>
+            <pb n="85" facs="tcp:150278:43"/>
+            <l>As the ſun-beames do ſeeme to touch the earth,</l>
+            <l>Bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> remaine there from whence they were ſent forth,</l>
+            <l>Eve<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo a great and holy mind, although</l>
+            <l>(Tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we Divine things may more nearly know)</l>
+            <l>It does converſe with us, yet never leaves</l>
+            <l>It's place but to it's firſt beginning cleaves.</l>
+            <l>There it depends, and thither ſtrives: and is</l>
+            <l>That part of us which is our onely bliſſe.</l>
+            <l>But what is that? a mind that's underſtood</l>
+            <l>To leane on nothing but its proper good</l>
+            <l>For how can greater fooliſhneſſe be ſhown,</l>
+            <l>Than to prayſe men for what is not their owne?</l>
+            <l>Or with great admiration to be ſtruck</l>
+            <l>At that, which from thee other men may pluck?</l>
+            <l>A golden bridle betters not a horſe.</l>
+            <l>A Lyon with a guilded maine, by force</l>
+            <l>And want of <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, that out of feare</l>
+            <l>With a ſubmiſſive readineſſe will beare</l>
+            <l>Whatſ'ever is impoſd, is lookt upon</l>
+            <l>In a much different condition</l>
+            <l>From him that is un-awd, and is intire</l>
+            <l>In courage. This, (as nature does require)</l>
+            <l>Fierce in aſſaults, in dreadfull fury, gay:</l>
+            <l>And terrible in countenance (which may</l>
+            <l>Be cald his beauty) far tranſcends that cold</l>
+            <l>And ſtupid Lyon, though adorn'd with gold.</l>
+            <l>We prayſe a vine if it with grapes abound:</l>
+            <l>If with the weight of fruit it touch the ground,</l>
+            <l>Who will preferr before this, as a vine,</l>
+            <l>That which with golden grapes, &amp; leaves do ſhine?</l>
+            <l>A vines true worth by fruitfullneſſe is known,</l>
+            <l>And man commended is for what's his own.</l>
+            <pb n="86" facs="tcp:150278:44"/>
+            <l>He hath a gallant family: is poſſeſt</l>
+            <l>Of a faire houſe: he lends at intereſt:</l>
+            <l>Plants and ſowes much. All theſe things are not <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>But are about him. That alone can win</l>
+            <l>And merit a juſt prayſe, which never can</l>
+            <l>Be given, or be taken from a man,</l>
+            <l>Which is his property. But wouldſt thou find</l>
+            <l>What is that property? it is the mind.</l>
+            <l>And in the mind right reaſon. For by nature</l>
+            <l>A man is found a rationable creature.</l>
+            <l>To finiſh then his good he ought to doe</l>
+            <l>Compleatly that which he is borne unto.</l>
+            <l>But what is that right reaſon does direct</l>
+            <l>A man to doe? what he hath power t'effect:</l>
+            <l>In all things his own nature to conſult,</l>
+            <l>But common madneſſe makes this difficult.</l>
+            <l>We thruſt each other into vice. How then</l>
+            <l>Can any be reduc'd to goodneſſe, when</l>
+            <l>No man to hinder wickedneſſe will ſtrive,</l>
+            <l>But into viciouſneſſe the people drive?</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:150278:44"/>
+            <head>Reader, the Author being out of Town, hath occaſioned divers faults to be committed in the Printing of the foregoing Epiſtles; for which the Printer in<g ref="char:EOLhyphen"/>treats thee to make a favourable interpretation: ſome wherof are heer ſet down.</head>
+            <p>Page 16 line 1. read know. p. 21. l. 16. 1. It will. p. 22. l. 10. r. teach. p. 33 l 25. r. he is not bleſt who is. p. 35. l. 1. r. witneſſes. p. 38. l. 14 r. 'fore our eyes. p. 39. l. 21. r. Genius. p. 40. l. 16. r. drown's. p. 41. l. laſt, r. he uſd himſelfe. p. 42. l. 3. r. aery muſick. p. 46. l. 13. r. by this. p. 47. l. 14. r. that moſt men. p. 50. l. 12. r. variety. p. 58 l. 10. r. th'aſt got. p. 66. l. 3. r. this to me. ibid. l. 21. r. riot gets. p. 71. l. 22. after Snatch thy ſelfe off: inſert, wee time enough have ſpent in vanities.</p>
+            <pb facs="tcp:150278:45"/>
+            <pb facs="tcp:150278:45"/>
+         </div>
+      </back>
+   </text>
+</TEI>
